@@ -62,14 +62,10 @@ We are the **Trustworthy AI Lab** at the [Florida International University](http
 
 
 <br>
-We are grateful for funding from NSF, Shell, RPI and Katana Graph. 
+We are grateful for funding from NSF. 
 <br>
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rpi_logo.png" style="width: 110px">
-  <!-- <br> -->
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/logopic/logo_shell.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/katana_logo.png" style="width: 110px">
 </figure>
 </div>
