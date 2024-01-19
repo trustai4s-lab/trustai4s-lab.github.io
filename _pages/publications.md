@@ -23,9 +23,23 @@ arXiv:2310.10064
 
 ### Publications in 2024
 
-Hongliang Chi, Cong Qi, Suhang Wang and Yao Ma\
-[Active Learning for Graphs with Noisy Structures.](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)\
-In Proceedings of the SIAM International Conference on Data Mining (SDM), 2024
+Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and Dongsheng Luo \
+[Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
+The International Conference on Learning Representations (ICLR), 2024
+The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
+
+Xu Zheng, Farhad Shirani, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo \
+[Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
+The International Conference on Learning Representations (ICLR), 2024
+
+Zichuan Liu, Yingying Zhang, Tianchun Wang, Zefan Wang, Dongsheng Luo, Mengnan Du, Min Wu, Yi Wang, Chunlin Chen, Lunting Fan, Qingsong Wen\
+[Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
+The International Conference on Learning Representations (ICLR), 2024
+
+
+Rundong Huang, Farhad Shirani, Dongsheng Luo\
+[Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
+The AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 ### Publications in 2023
 
