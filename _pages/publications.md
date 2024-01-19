@@ -144,7 +144,7 @@ Yuchen Bian, Dongsheng Luo, Yaowei Yan, Wei Cheng, Wei Wang, and Xiang Zhang\
 Knowledge and Information Systems (KAIS), 2020
 
 
-### before 2020
+### Before 2020
 
 Dongkuan Xu, Wei Cheng, Dongsheng Luo, Yameng Gu, Xiao Liu, Jingchao Ni, Bo Zong, Haifeng Chen, Xiang Zhang\
 [Adaptive neural network for node classification in dynamic networks]()\
