@@ -83,25 +83,29 @@ Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, Junjie Xu, Hui Liu, Suhang Wang
 [Self-Explainable Graph Neural Networks for Link Prediction]()\
 Arxiv, 2023
 
-### Publications in 2022
+### 2022
 
-Khang Tran, Phung Lai, NhatHai Phan, Yao Ma, Abdallah Khreishah, Issa Khalil, My T. Thai, Xintao Wu.\
-[Heterogeneous Randomized Response for Differential Privacy in Graph Neural Networks](https://arxiv.org/pdf/2211.05766.pdf)\
-In Proceedings of the 2022 IEEE International Conference on Big Data, 2022
+Dongsheng Luo, Shuai Ma, Yaowei Yan, Chunming Hu, Xiang Zhang, and Jinpeng Huai\
+[A Collective Approach to Scholar Name Disambiguation](https://ieeexplore.ieee.org/document/9147044)\
+In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022\
+IEEE International Conference on Data Engineering (ICDE), 2021.
 
-Wei Jin, Xiaorui Liu, Yao Ma, Charu Aggarwal, Jiliang Tang\
-[Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective](https://arxiv.org/abs/2206.07743)\
-In Proceedings of 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2022)
 
-Yao Ma, Xiaorui Liu, Neil Shah, Jiliang Tang\
-[Is Homophily a Necessity for Graph Neural Networks](https://openreview.net/forum?id=ucASPPD9GKN)\
-International Conference on Learning Representations (ICLR 2022)
+Tianchun Wang, Wei Cheng, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang\
+[Personalized federated learning via heterogeneous modular networks]()\
+IEEE International Conference on Data Mining (ICDM), 2022
+
+Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
+[TopoImb: Toward Topology-level Imbalance in Learning from Graphs]()\
+Learning on Graphs Conference (LOG), 2022
+
+
+### 2021
+
 
 Wei Jin, Xiaorui Liu, Xiangyu Zhao, Yao Ma, Neil Shah, Jiliang Tang\
 [Automated Self-Supervised Learning for Graphs](https://arxiv.org/pdf/2106.05470.pdf)\
 International Conference on Learning Representations (ICLR 2022)
-
-### Publications in 2021
 
 Yao Ma, Xiaorui Liu, Tong Zhao, Yozen Liu, Jiliang Tang\
 [A Unified View of Graph Neural Networks as Graph Signal Denoising](https://dl.acm.org/doi/abs/10.1145/3459637.3482225?casa_token=AEB3ERghracAAAAA:wfXidUU6UHuVUHQ0aoJoP3tATTe6H1pTYum_MdDXhy2rfyZ41g0IKs_0cjsJtYW3qbznfmKg4AfjEg)\
