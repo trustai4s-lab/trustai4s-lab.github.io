@@ -1,7 +1,7 @@
 ---
-title: "DAMI Lab - Publications"
+title: "Trustworthy AI Lab - Publications"
 layout: gridlay
-excerpt: "DAMI Lab -- Publications."
+excerpt: "Trustworthy AI Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,31 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Tutorials 
-
-Yao Ma, Wei Jin, Jiliang Tang, Yiqi Wang, Tyler Derr\
-[Graph Neural Networks: Models and Applications](https://web.njit.edu/~ym329/tutorials/aaai2021/)\
-AAAI Tutorial Forum, 2021
-
-Yao Ma, Yiqi Wang, Tyler Derr, Lingfei Wu, Tengfei Ma, Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng\
-Deep Graph Learning: Foundations, Advances and Applications\
-In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2020
-
-Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu, Tengfei Ma\
-Graph Neural Networks: Models and Applications\
-AAAI Tutorial Forum, 2020
-
-## Books and Book Chapters
-
-Yao Ma and Jiliang Tang\
-[Deep Learning on Graphs](https://web.njit.edu/~ym329/dlg_book)\
-Cambridge University Press, 2021
-
-Yao Ma, Charu Aggarwal, Jiliang Tang\
-[Feature Engineering For Data Streams](https://www.taylorfrancis.com/books/e/9781351721271/chapters/10.1201%2F9781315181080-5)\
-Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC Press, 2017
-
-## Preprints
+## Recent Preprints
 
 Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
 [Non-IID Graph Neural Networks](https://arxiv.org/abs/2005.12386)\
