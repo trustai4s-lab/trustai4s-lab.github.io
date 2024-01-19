@@ -103,31 +103,33 @@ Learning on Graphs Conference (LOG), 2022
 ### 2021
 
 
-Wei Jin, Xiaorui Liu, Xiangyu Zhao, Yao Ma, Neil Shah, Jiliang Tang\
-[Automated Self-Supervised Learning for Graphs](https://arxiv.org/pdf/2106.05470.pdf)\
-International Conference on Learning Representations (ICLR 2022)
+Dongsheng Luo, Wei Cheng, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang\
+[Learning to Drop: Robust Graph Neural Network via Topological Denoising](https://arxiv.org/abs/2011.07057)\
+In Proceedings of 14th ACM International Conference on Web Search and Data Mining (WSDM), 2021
 
-Yao Ma, Xiaorui Liu, Tong Zhao, Yozen Liu, Jiliang Tang\
-[A Unified View of Graph Neural Networks as Graph Signal Denoising](https://dl.acm.org/doi/abs/10.1145/3459637.3482225?casa_token=AEB3ERghracAAAAA:wfXidUU6UHuVUHQ0aoJoP3tATTe6H1pTYum_MdDXhy2rfyZ41g0IKs_0cjsJtYW3qbznfmKg4AfjEg)\
-In Proceedings of the 2021 ACM on Conference on Information and Knowledge Management (CIKM), 2021
+Dongkuan Xu, Wei Cheng, Dongsheng Luo, Haifeng Chen, Xiang Zhang\
+[Infogcl: Information-aware graph contrastive learning]()\
+Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2021
 
-Wei Jin, Xiaorui Liu, Yao Ma, Tyler Derr, Charu Aggarwal, Jiliang Tang\
-[Graph Feature Gating Networks](https://arxiv.org/abs/2105.04493)\
-In Proceedings of the 2021 ACM on Conference on Information and Knowledge Management (CIKM), 2021
+Dongkuan Xu, Wei Cheng, Jingchao Ni, Dongsheng Luo, Masanao Natsumeda, Dongjin Song, Bo Zong, Haifeng Chen, Xiang Zhang\
+[Deep multi-instance contrastive learning with dual attention for anomaly precursor detection]()\
+Proceedings of Proceedings of the SIAM International Conference on Data Mining (SDM), 2021
 
-Yao Ma, Suhang Wang, Tyler Derr, Lingfei Wu, Jiliang Tang\
-[Attacking Graph Convolutional Networks via Rewiring](https://arxiv.org/abs/1906.03750)\
-In Proceedings of 27th ACM SIGKDDConference on Knowledge Discovery and Data Mining (SIGKDD), 2021
+Dongsheng Luo, Yuchen Bian, Xiang Zhang, Jun Huan\
+[Attentive social recommendation: Towards user and item diversities]()\
+Workshop of Deep Learning on Graphs: Method and Applications(DLG-AAAI), 2021
 
-Xiaorui Liu, Wei Jin, Yao Ma, Yaxin Li, Hua Liu, Yiqi Wang, Ming Yan, Jiliang Tang.\
-[Elastic Graph Neural Networks](https://proceedings.mlr.press/v139/liu21k.html)\
-International Conference on Machine Learning (ICML), 2021.
+Dongsheng Luo, Wei Cheng, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Bo Zong, Yanchi Liu, Zhengzhang Chen, Dongjin Song, Haifeng Chen, Xiang Zhang\
+[Unsupervised document embedding via contrastive augmentation](https://proceedings.mlr.press/v139/liu21k.html)\
+Arxiv, 2021
+
+### Publications in 2020
+
 
 Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li.\
 [CopyAttack: Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://ieeexplore.ieee.org/document/9458627)\
 In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), 2021.
 
-### Publications in 2020
 
 Yao Ma, Juanhui Li, Yiqi Wang, Charu Aggarwal, Changdong Wang, Jiliang Tang\
 [Graph Pooling with Representativeness](https://ieeexplore.ieee.org/abstract/document/9338397)\
