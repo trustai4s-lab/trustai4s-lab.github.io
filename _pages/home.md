@@ -57,9 +57,6 @@ We are the **Trustworthy AI Lab** at the [Florida International University](http
 </div>
 
 <br>
- 
- **The DAMI Lab is growing. We are looking for passionate new PhD students, Master students, and undergraduate stduents to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
-
 
 <br>
 We are grateful for funding from NSF. 
