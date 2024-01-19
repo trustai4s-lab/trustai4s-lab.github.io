@@ -21,7 +21,7 @@ arXiv:2310.10064
 
 ## Conference and Journal Publications
 
-### Publications in 2024
+### 2024
 
 Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and Dongsheng Luo \
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
@@ -41,35 +41,47 @@ Rundong Huang, Farhad Shirani, Dongsheng Luo\
 [Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
 The AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
-### Publications in 2023
+### 2023
 
-Haitao Mao, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang\
-[Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/pdf/2306.01323.pdf)\
-To Appear in Thirty-seventh Conference on Neural Information Processing Systems, Orleans, United States, 2023
+Jiaxing Zhang, Dongsheng Luo, Hua Wei\
+[MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation](https://arxiv.org/abs/2307.07832)\
+Proceedings of 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
-Juanhui Li, Harry Shomer, Haitao Mao, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin\
-[Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking](https://arxiv.org/pdf/2306.10453.pdf)\
-To Appear in Thirty-seventh Conference on Neural Information Processing Systems, Orleans, United States, 2023
+Dongsheng Luo, W. Cheng, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen, H. Chen, Xiang Zhang
+[Time Series Contrastive Learning with Information-Aware Augmentations](https://arxiv.org/abs/2303.11911)\
+Proceedings of the AAAI International Conference on Artificial Intelligence (AAAI), 2023
 
-Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang\
-[Towards Fair Graph Neural Networks via Graph Counterfactual](https://arxiv.org/pdf/2307.04937.pdf)\
-To Appear in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)
+Dongsheng Luo, Yuchen Bian, Yaowei Yan, Xiong Yu, Jun Huan, Xiao Liu, Xiang Zhang\
+[Random Walk on Multiple Networks](https://arxiv.org/abs/2307.01637)\
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023
 
-Mahmoud Nazzal, Issa Khalil, Abdallah Khreishah, NhatHai Phan, Yao Ma\
-[Multi-Instance Adversarial Attack on GNN-Based Malicious Domain Detection](https://arxiv.org/pdf/2308.11754.pdf)\
-To Appear in the 45th IEEE Symposium on Security and Privacy, May 20-23, 2024.
+Minghao Lin, Minghao Cheng, Dongsheng Luo, Yueqi Chen\
+[CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning]()\
+Workshop on Security of Space and Satellite Systems (SpaceSec@ NDSS), 2023
 
-Harry Shomer, Wei Jin, Juanhui Li, and Yao Ma, Jiliang Tang\
-[Learning Representations for Hyper-Relational Knowledge Graphs](https://arxiv.org/pdf/2208.14322.pdf)\
-The 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Marrakesh, Morocco, 6-9 November 2023
+Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
+[Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment]()\
+ACM Transactions on Intelligent Systems and Technology (TIST), 2023
 
-Juanhui Li, Harry Shomer, Jiayuan Ding, and Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin\
-[Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?](https://arxiv.org/pdf/2205.10652.pdf)\
-Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, ACL 2023, Toronto, Cananda, 2023
+Jiaxing Zhang, Zhuomin Chen, Hao Mei, Dongsheng Luo, Hua Wei\
+[RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
+Learning on Graphs Conference (LOG), 2023
 
-Juanhui Li, Yao Ma, Wei Zeng, Suqi Cheng, Jiliang Tang, Shuaiqiang Wang, Dawei Yin\
-[Graph Enhanced BERT for Query Understanding](https://arxiv.org/pdf/2204.06522.pdf)\
-Proceedings of the 46th International ACM SIGIR conference on research and development in Information Retrieval, SIGIR 2023.
+Xu Zheng, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo\
+[Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
+IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023
+
+Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
+[Towards Faithful and Consistent Explanations for Graph Neural Networks]()\
+Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM), 2023
+
+Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mohan Mondal\
+[MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
+The 15th RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB), 2023.
+
+Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, Junjie Xu, Hui Liu, Suhang Wang
+[Self-Explainable Graph Neural Networks for Link Prediction]()\
+Arxiv, 2023
 
 ### Publications in 2022
 
