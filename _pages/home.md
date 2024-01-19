@@ -27,13 +27,13 @@ We are the **Trustworthy AI Lab** at the [Florida International University](http
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/mmc.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/mmc.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/bbc.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/bbc.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/engineering.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/engineering.jpg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -47,7 +47,7 @@ We are the **Trustworthy AI Lab** at the [Florida International University](http
 </div>
 
 <div class="center">
-  <p> Pictures from RPI's [Website](https://www.rpi.edu/).</p>
+  <p> Pictures from FIU's [Website](https://www.fiu.edu/).</p>
   <p></p>
   <p></p>
 </div>
