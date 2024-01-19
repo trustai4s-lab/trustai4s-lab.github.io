@@ -1,7 +1,7 @@
 ---
-title: "DAMI Lab - Members"
+title: "Trustworthy AI Lab - Members"
 layout: gridlay
-excerpt: "DAMI Lab: Members"
+excerpt: "Trustworthy AI Lab: Members"
 sitemap: false
 permalink: /people/
 ---
