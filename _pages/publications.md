@@ -11,21 +11,13 @@ permalink: /publications/
 
 ## Recent Preprints
 
-Yiqi Wang, Yao Ma, Charu Aggarwal, Jiliang Tang\
-[Non-IID Graph Neural Networks](https://arxiv.org/abs/2005.12386)\
-arXiv:2005.12386
+Han Xuanyuan, Tianxiang Zhao, Wei Cheng, and Dongsheng Luo\
+[Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)
 
-Zhiwei Wang, Yao Ma, Zitao Liu, Jiliang Tang\
-[R-Transformer: Recurrent Neural Network Enhanced Transformer](https://arxiv.org/abs/1907.05572)\
-arXiv:1907.05572
+Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
+[Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/abs/2310.10064)\
+arXiv:2310.10064
 
-Zhiwei Wang, Yao Ma, Dawei Yin, Jiliang Tang\
-[Linked Reccurent Neural Networks](https://arxiv.org/abs/1808.06170)\
-arXiv:1808.06170
-
-Yao Ma, Suhang Wang, Zhaochun Ren, Dawei Yin, Jiliang Tang\
-[Preserving Local and Global Inoformation for Network Embedding](https://arxiv.org/abs/1710.07266)\
-arXiv:1710.07266
 
 ## Conference and Journal Publications
 
