@@ -123,30 +123,31 @@ Dongsheng Luo, Wei Cheng, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Bo Zong, Yanchi
 [Unsupervised document embedding via contrastive augmentation](https://proceedings.mlr.press/v139/liu21k.html)\
 Arxiv, 2021
 
-### Publications in 2020
+### 2020
 
 
-Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li.\
-[CopyAttack: Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://ieeexplore.ieee.org/document/9458627)\
-In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), 2021.
+Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang\
+[Parameterized Explainer for Graph Neural Network](https://arxiv.org/abs/2011.04573)\
+in Proceedings of 34th Conference on Neural Information Processing Systems (NeurIPS), 2020
 
 
-Yao Ma, Juanhui Li, Yiqi Wang, Charu Aggarwal, Changdong Wang, Jiliang Tang\
-[Graph Pooling with Representativeness](https://ieeexplore.ieee.org/abstract/document/9338397)\
-To appear in Proceedings of 20th IEEE International Conference on Data Mining (ICDM), 2020
+Dongsheng Luo, Yuchen Bian, Yaowei Yan, Xiao Liu, Jun Huan, Xiang Zhang\
+[Local Community Detection in Multiple Networks](https://dl.acm.org/doi/10.1145/3394486.3403069)\
+in Proceedings of 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2020
+
+Dongsheng Luo, Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu, Xiang Zhang\
+[Deep Multi-Graph Clustering via Attentive Cross-Graph Association](https://dl.acm.org/doi/abs/10.1145/3336191.3371806)\
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2020
+
+Yuchen Bian, Dongsheng Luo, Yaowei Yan, Wei Cheng, Wei Wang, and Xiang Zhang\
+[Memory-based random walk for multi-query local community detection](https://link.springer.com/article/10.1007/s10115-019-01398-3)\
+Knowledge and Information Systems (KAIS), 2020
 
 
-Wentao Wang, Tyler Derr, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, Jiliang Tang\
-[Learning from Incomplete Labeled Data via Adversarial Data Generation](https://ieeexplore.ieee.org/document/9338324)\
-To appear in Proceedings of 20th IEEE International Conference on Data Mining (ICDM), 2020
-
-Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang\
-[Graph Structure Learning for Robust Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394486.3403049)\
-In Proceedings of 26th ACM SIGKDDConference on Knowledge Discovery and Data Mining (SIGKDD),2020
+### before 2020
 
 Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin\
 [A Graph Neural Network Framework for Social Recommendations](https://ieeexplore.ieee.org/abstract/document/9139346)\
-IEEE Transactions on Knowledge and Data Engineering. 2020 Jul 13.
 
 Yao Ma, Ziyi Ding, Zhaochun Ren, Jiliang Tang, Dawei Yin\
 [Streamining Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397271.3401092)\
@@ -163,8 +164,6 @@ In Proceedings of the 2020 SIAM International Conference on Data Mining (SDM 202
 Tyler Derr, Yao Ma, Wenqi Fan, Xiaorui Liu, Charu Aggarwal, Jiliang Tang\
 [Epidemic Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3336191.3371807)\
 In Proceedings of 13th ACM Conference on Web Search and Data Mining (WSDM), 2020
-
-### Publications in 2019
 
 Wenqi Fan, Yao Ma, Dawei Yin, Jianping Wang, Jiliang Tang, Qing Li\
 [Deep Social Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3298689.3347011)\
@@ -189,8 +188,6 @@ In Proceedings of the 28th International Conference on World Wide Web Companion,
 Yao Ma, Suhang Wang, Charu C. Aggarwal, Dawei Yin, Jiliang Tang\
 [Multi-dimensional Graph Convolutional Networks](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.74)\
 In Proceedings of SIAM International Conference on Data Mining (SDM), 2019
-
-### Publications before 2019
 
 Tyler Derr, Yao Ma, Jiliang Tang\
 [Signed Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8594922)\
