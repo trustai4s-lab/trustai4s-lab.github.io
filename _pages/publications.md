@@ -47,7 +47,7 @@ Jiaxing Zhang, Dongsheng Luo, Hua Wei\
 [MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation](https://arxiv.org/abs/2307.07832)\
 Proceedings of 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
 
-Dongsheng Luo, W. Cheng, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen, H. Chen, Xiang Zhang
+Dongsheng Luo, W. Cheng, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen, H. Chen, Xiang Zhang\
 [Time Series Contrastive Learning with Information-Aware Augmentations](https://arxiv.org/abs/2303.11911)\
 Proceedings of the AAAI International Conference on Artificial Intelligence (AAAI), 2023
 
@@ -79,7 +79,7 @@ Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mo
 [MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
 The 15th RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB), 2023.
 
-Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, Junjie Xu, Hui Liu, Suhang Wang
+Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, Junjie Xu, Hui Liu, Suhang Wang\
 [Self-Explainable Graph Neural Networks for Link Prediction]()\
 Arxiv, 2023
 
