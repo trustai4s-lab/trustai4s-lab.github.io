@@ -1,16 +1,16 @@
 ---
-title: "Data Analytics and Machine Intelligence Lab - Home"
+title: "Trustworthy AI Lab - Home"
 layout: homelay
-excerpt: "Data Analytics and Machine Intelligence Lab @ Rensselaer Polytechnic Institute."
+excerpt: "Trustworthy AI Lab @ Florida International University."
 sitemap: false
 permalink: /
 ---
 
-We are the **Data Analytics and Machine Intelligence (DAMI) Lab** at the [Rensselaer Polytechnic Institute](https://www.rpi.edu/) led by [Yao Ma](https://yaoma24.github.io/). Our research lies in social computing, data mining, and machine learning, especially social network analysis, deep learning on graphs, and knowledge graphs. 
+We are the **Trustworthy AI Lab** at the [Florida International University](https://www.fiu.edu/) led by [Dongsheng Luo](https://users.cs.fiu.edu/~dluo/).  Our lab is dedicated to crafting efficient and trustworthy AI solutions for science. We prioritize models that are practical for real-world deployment and emphasize transparency, robustness, and reliability. We actively bridge the gap between AI and scientific domains. Through interdisciplinary collaborations, we tailor our AI innovations to address complex challenges in environmental science, health informatics, and human-computer interaction, thereby facilitating impactful scientific advancements.
 
 <br>
 
-<link rel = "stylesheet" href="/dami-lab/main.css">
+<link rel = "stylesheet" href="/trustai4s-lab/main.css">
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
