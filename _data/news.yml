@@ -1,75 +1,29 @@
-- date: 1/2024
-  headline: One paper accepted by **ICLR 2024**.
+- date: 01/2024
+  headline: Three papers were accepted to **ICLR 24**.
 
 - date: 12/2023
-  headline: One paper accepted by **SDM 2024**. Congratulations to Hongliang!
+  headline: Two papers were accepted to **LOG 23** and **AAAI 24**.
 
-- date: 09/2023
-  headline: Two papers accepted by **NeurIPS2023**.
+- date: 10/2023
+  headline: One paper "Learn2Drop" was accepted to **GLFrontiers 23**.
 
 - date: 08/2023
-  headline: One paper accepted by **CIKM2023**.
+  headline: We won the best paper award at **AI4TS@IJCAI 23**.
 
-- date: 07/2023
-  headline: One paper accepted by **S&P2024**.
-
-- date: 05/2023
-  headline: Our lab is honored to receive a research grant from NSF for the project <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300341&HistoricalAwards=false">SHINE:Prediction of Coronal Mass Ejections and Interplanetary Magnetic Fields Using Advanced Artificial Intelligence Techniques</a>. Congratulations!
+- date: 06/2023
+  headline: One Arsenal is accepted to **BlackHat USA**.
 
 - date: 05/2023
-  headline: One paper accepted by **ACL2023**.
-
-- date: 04/2023
-  headline: One paper accepted by **TKDE**.
-
-- date: 04/2023
-  headline: One paper accepted by **SIGIR2023**.
+  headline: Two papers were accepted to **SIGKDD 23** and **RICSS 23**.
+  
+- date: 03/2023
+  headline: One paper was accepted to **RECOMB-CCB 23**.
 
 - date: 11/2022
-  headline: <a href="https://sdm23wsmh.github.io">Data Science for Smart Manufacturing and Healthcare</a> workshop at **SDM2023**.  
+  headline: Three papers were accepted to **TKDE 22**, **LOG 22**, and **AAAI23**.
 
 - date: 10/2022
-  headline: <a href="https://mlog-workshop.github.io/wsdm23.html">Machine Learning on Graphs (MLoG)</a> workshop at **WSDM2023**.  
+  headline: One paper on explainable GNNs was accepted to **WSDM 23**.
 
 - date: 08/2022
-  headline: Gratefully received a research grant from NSF ([IIS-2212145](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212145&HistoricalAwards=false)). 
-
-- date: 08/2022
-  headline: Cong and Jialiang join us as PhD students. Welcome! 
-
-- date: 08/2022
-  headline: New preprint on graph contrastive learning is available [here](https://arxiv.org/abs/2208.06743).
-
-- date: 06/2022
-  headline: Amanda joins us as a summer intern. Welcome! 
-  
-- date: 04/2022
-  headline: <a href="https://mlog-workshop.github.io/">Machine Learning on Graphs (MLoG)</a> workshop at **ICDM2022**.  
-
-- date: 04/2022
-  headline:  Mike was awarded the NJIT Provost Undergraduate Research and Innovation (URI) Summer Fellowship. Congratulations!
-
-- date: 04/2022 
-  headline: Hongliang received a student travel award to attend SDM2022. Congratulations!
-
-- date: 03/2022
-  headline: Hongliang was accepted to the Doctoral Forum at SDM2022. Congratulations!
-
-- date: 02/2022
-  headline: Gratefully received an NSF CRII grant ([IIS-2153326](https://nsf.gov/awardsearch/showAward?AWD_ID=2153326&HistoricalAwards=false)) to support our research on advancing graph neural networks.
-
-- date: 01/2022
-  headline: Two papers accepted by **ICLR2022**.
-
-- date: 12/2021 
-  headline: \[**CFP**\] [Machine Learning with Complex Graphs](https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs) with Yao as Topic Editor for Frontiers in Big Data.
-
-- date: 11/2021
-  headline: \[**CFP**\] [Machine Learning on Graphs (MLoG)](https://mlog-workshop.github.io/) workshop at **WSDM2022**. 
-  
-- date: 09/2021
-  headline: One paper accepted by **NeurIPS2021**.
-
-- date: 08/2021
-  headline: Two papers accepted by **CIKM2021**.
-  
+  headline: One paper was accepted to **ICDM 22**.  
