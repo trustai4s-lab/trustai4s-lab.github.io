@@ -1,0 +1,29 @@
+- name: Mike Jeong
+  photo: bio-photo.jpg
+  info: Computer Science and Applied Mathematics
+  email: jj535@njit.edu
+  number_educ: 1
+  education1: NJIT Provost Undergraduate Research and Innovation (URI) Summer Fellowship
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
+
+- name: Rajan Tripathi
+  photo: bio-photo.jpg
+  info: Computer Science
+  email: rt9@njit.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: linkedin.com/in/rajan-tri/
+  twitter: 0
+  github: 0
