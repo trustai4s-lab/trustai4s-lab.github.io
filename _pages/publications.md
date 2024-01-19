@@ -146,65 +146,33 @@ Knowledge and Information Systems (KAIS), 2020
 
 ### before 2020
 
-Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin\
-[A Graph Neural Network Framework for Social Recommendations](https://ieeexplore.ieee.org/abstract/document/9139346)\
+Dongkuan Xu, Wei Cheng, Dongsheng Luo, Yameng Gu, Xiao Liu, Jingchao Ni, Bo Zong, Haifeng Chen, Xiang Zhang\
+[Adaptive neural network for node classification in dynamic networks]()\
+IEEE International Conference on Data Mining (ICDM), 2019
 
-Yao Ma, Ziyi Ding, Zhaochun Ren, Jiliang Tang, Dawei Yin\
-[Streamining Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397271.3401092)\
-In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020
+Dongkuan Xu, Wei Cheng, Dongsheng Luo, Xiang Zhang\
+[Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs]()\
+International Joint Conference on Artificial Intelligence (IJCAI), 2019
 
-Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu\
-[Traffic Flow Prediction via Spatial Temporal Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3366423.3380186?casa_token=SNSY9fbFy0oAAAAA:1ZD5LkGEdRrNh2-RYnXb6mhhOzc9B5DB5l8F0l3qBrW4KZzQd5HBxViWSVv0gbvBs5bYNIgvp0t-xg)\
-In Proceedings of the 29th International Conference on World Wide Web Companion (WWW), 2020
+Yaowei Yan, Yuchen Bian, Dongsheng Luo, Dongwon Lee, Xiang Zhang\
+[Constrained local graph clustering by colored random walk]()\
+The world wide web conference (WWW), 2019
 
-Wenqi Fan, Yao Ma, Han Xu, Xiaorui Liu, Jianping Wang, Qing Li, Jiliang Tang\
-[Deep Adversarial Canonical Correlation Analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.40)\
-In Proceedings of the 2020 SIAM International Conference on Data Mining (SDM 2020), 2020.
+Yuchen Bian, Yaowei Yan, Wei Cheng, Wei Wang, Dongsheng Luo, Xiang Zhang\
+[On multi-query local community detection]()\
+IEEE international conference on data mining (ICDM), 2018
 
-Tyler Derr, Yao Ma, Wenqi Fan, Xiaorui Liu, Charu Aggarwal, Jiliang Tang\
-[Epidemic Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3336191.3371807)\
-In Proceedings of 13th ACM Conference on Web Search and Data Mining (WSDM), 2020
+Shuai Ma, Chen Gong, Renjun Hu, Dongsheng Luo, Chunming Hu, Jinpeng Huai\
+[Query independent scholarly article ranking]()\
+IEEE 34th international conference on data engineering (ICDE), 2018
 
-Wenqi Fan, Yao Ma, Dawei Yin, Jianping Wang, Jiliang Tang, Qing Li\
-[Deep Social Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3298689.3347011)\
-In Proceedings of the 13th ACM Conference on Recommender Systems (RecSys), 2019
+Yaowei Yan, Dongsheng Luo, Jingchao Ni, Hongliang Fei, Wei Fan, Xiong Yu, John Yen, Xiang Zhang\
+[Local graph clustering by multi-network random walk with restart]()\
+PAKDD, 2018
 
-Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil Jain\
-[Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://link.springer.com/article/10.1007/s11633-019-1211-x)\
-International Journal of Automation and Computing, 17(2), pp.151-178.
-
-Wenqi Fan, Tyler Derr, Yao Ma, Jianping Wang, Jiliang Tang, Qing Li\
-[Deep Adversarial Social Recommendation](https://arxiv.org/abs/1905.13160)\
-In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2019
-
-Yao Ma, Suhang Wang, Charu C. Aggarwal, Jiliang Tang\
-[Graph Convolutional Networks with EigenPooling](https://dl.acm.org/doi/abs/10.1145/3292500.3330982)\
-In Proceedings of 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2019
-
-Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin\
-[Graph Neural Networks for Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3308558.3313488)\
-In Proceedings of the 28th International Conference on World Wide Web Companion, 2019
-
-Yao Ma, Suhang Wang, Charu C. Aggarwal, Dawei Yin, Jiliang Tang\
-[Multi-dimensional Graph Convolutional Networks](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.74)\
-In Proceedings of SIAM International Conference on Data Mining (SDM), 2019
-
-Tyler Derr, Yao Ma, Jiliang Tang\
-[Signed Graph Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8594922)\
-In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2018
-
-Yao Ma, Suhang Wang, Jiliang Tang\
-[Local and Global Information Preserved Network Embedding](https://ieeexplore.ieee.org/abstract/document/8508496)\
-In Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018
-
-Yao Ma, Zhaochun Ren, Ziheng Jiang, Dawei Yin, Jiliang Tang\
-[Multidimensional Network Embedding with Hierarchical Structures](https://dl.acm.org/doi/abs/10.1145/3159652.3159680)\
-In Proceedings of the 11th ACM International Conference on Web Search and Data Mining (WSDM), 2018
-
-Yao Ma, Suhang Wang, Jiliang Tang\
-[Network Embedding with Centrality Information](https://ieeexplore.ieee.org/abstract/document/8215794)\
-Ph.D Forum, The IEEE International Conference on Data Mining (ICDM), 2017
-
+Dongsheng Luo, Chen Gong, Renjun Hu, Liang Duan, and Shuai Ma
+[Ensemble Enabled Weighted PageRank](https://arxiv.org/abs/1604.05462)\
+The WSDM Cup 2016 - Entity Ranking Challenge (WSDM CUP), 2016
 
 
 <!-- {% for publi in site.data.publist %}
