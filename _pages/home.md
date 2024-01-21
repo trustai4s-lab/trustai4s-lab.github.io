@@ -53,7 +53,6 @@ We are the **Trustworthy AI Lab** at the [Florida International University](http
 </div>
 
 <br>
-
 <br>
 We are grateful for funding from NSF. 
 <br>
@@ -62,3 +61,8 @@ We are grateful for funding from NSF.
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
 </figure>
 </div>
+
+
+<br>
+We are fortunate to have close collaborations with researchers/faculties from [Π-CoLab](https://pi-colab.github.io/index2.html), [PiCOM](https://picom.cs.fiu.edu/), [Sea Level Solutions Center](https://environment.fiu.edu/slsc/) at FIU, [NEC Labs](https://www.nec-labs.com/), Amazon, Penn State University, Arizona State University, Nanjing Univerity, New Jersey Institute of Technology, Technical University of Munich etc.
+<br>
