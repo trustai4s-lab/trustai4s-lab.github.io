@@ -13,7 +13,7 @@ permalink: /publications/
 
 ## Recent Preprints
 
-Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo<sup>*</sup>\
+Han Xuanyuan, Tianxiang Zhao, and <u>Dongsheng Luo</u>\
 [Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)\
 NeurIPS 2023 Workshop: New Frontiers in Graph Learning, 2023
 
