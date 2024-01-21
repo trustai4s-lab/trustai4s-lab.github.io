@@ -64,5 +64,5 @@ We are grateful for funding from NSF.
 
 
 <br>
-We are fortunate to have close collaborations with researchers/faculties from [Π-CoLab](https://pi-colab.github.io/index2.html), [PiCOM](https://picom.cs.fiu.edu/), [Sea Level Solutions Center](https://environment.fiu.edu/slsc/) at FIU, [NEC Labs](https://www.nec-labs.com/), Amazon, Penn State University, Arizona State University, Nanjing Univerity, New Jersey Institute of Technology, Technical University of Munich etc.
+We are fortunate to have close collaborations with researchers/faculties from [Π-CoLab](https://pi-colab.github.io/index2.html), [PiCOM Lab](https://picom.cs.fiu.edu/), [Sea Level Solutions Center](https://environment.fiu.edu/slsc/), [MLDAG Lab](https://mondallab.cs.fiu.edu/) at FIU, [AI2ES institute](https://www.ai2es.org/), [NEC Labs](https://www.nec-labs.com/), Amazon, Penn State University, Arizona State University, Nanjing Univerity, New Jersey Institute of Technology, Technical University of Munich etc.
 <br>
