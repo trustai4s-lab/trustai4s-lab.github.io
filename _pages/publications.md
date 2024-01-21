@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Recent Preprints
 
-Han Xuanyuan, Tianxiang Zhao,and Dongsheng Luo\
+Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo\
 [Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)
 
 Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
