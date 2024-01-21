@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-<p><sup>E</sup> indicates equal contribution, <sup>*</sup> indicate corresponding author</p>
+<p><sup>E</sup> indicates equal contribution, Underlines indicate corresponding author</p>
 
 ## Recent Preprints
 
@@ -26,12 +26,12 @@ arXiv:2310.10064
 
 ### 2024
 
-Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and Dongsheng Luo<sup>*</sup> \
+Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and <u>Dongsheng Luo</u>\
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
 
-Xu Zheng<sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo<sup>*</sup> \
+Xu Zheng<sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, <u>Dongsheng Luo</u> \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024
 
@@ -40,7 +40,7 @@ Zichuan Liu, Yingying Zhang, Tianchun Wang, Zefan Wang, Dongsheng Luo, Mengnan D
 The International Conference on Learning Representations (**ICLR**), 2024
 
 
-Rundong Huang, Farhad Shirani<sup>*</sup>, Dongsheng Luo<sup>*</sup>\
+Rundong Huang, <u>Farhad Shirani</u>, <u>Dongsheng Luo</u>\
 [Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
@@ -70,7 +70,7 @@ Jiaxing Zhang, Zhuomin Chen, Hao Mei, Dongsheng Luo, Hua Wei\
 [RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
 Learning on Graphs Conference (LOG), 2023
 
-Xu Zheng, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo<sup>*</sup>\
+Xu Zheng, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, <u>Dongsheng Luo</u>\
 [Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023
 
