@@ -9,9 +9,11 @@ permalink: /publications/
 
 # Publications
 
+<p><sup>E</sup> indicates equal contribution, * indicate corresponding authors</p>
+
 ## Recent Preprints
 
-Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo\
+Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo<sup>*</sup>\
 [Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)
 
 Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
