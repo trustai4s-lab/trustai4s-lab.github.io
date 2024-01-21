@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-<p><sup>E</sup> indicates equal contribution, * indicate corresponding authors</p>
+<p><sup>E</sup> indicates equal contribution, <sup>*</sup> indicate corresponding authors</p>
 
 ## Recent Preprints
 
@@ -26,37 +26,37 @@ arXiv:2310.10064
 
 ### 2024
 
-Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and Dongsheng Luo \
+Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and Dongsheng Luo<sup>*</sup> \
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
 
-Xu Zheng, Farhad Shirani, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo \
+Xu Zheng<sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo<sup>*</sup> \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
-The International Conference on Learning Representations (ICLR), 2024
+The International Conference on Learning Representations (**ICLR**), 2024
 
 Zichuan Liu, Yingying Zhang, Tianchun Wang, Zefan Wang, Dongsheng Luo, Mengnan Du, Min Wu, Yi Wang, Chunlin Chen, Lunting Fan, Qingsong Wen\
 [Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
-The International Conference on Learning Representations (ICLR), 2024
+The International Conference on Learning Representations (**ICLR**), 2024
 
 
-Rundong Huang, Farhad Shirani, Dongsheng Luo\
+Rundong Huang, Farhad Shirani<sup>*</sup>, Dongsheng Luo<sup>*</sup>\
 [Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
-The AAAI Conference on Artificial Intelligence (AAAI), 2024.
+The AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
 ### 2023
 
-Jiaxing Zhang, Dongsheng Luo, Hua Wei\
+Jiaxing Zhang<sup>E</sup>, Dongsheng Luo<sup>E</sup>, Hua Wei\
 [MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation](https://arxiv.org/abs/2307.07832)\
-Proceedings of 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+Proceedings of 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2023
 
 Dongsheng Luo, W. Cheng, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen, H. Chen, Xiang Zhang\
 [Time Series Contrastive Learning with Information-Aware Augmentations](https://arxiv.org/abs/2303.11911)\
-Proceedings of the AAAI International Conference on Artificial Intelligence (AAAI), 2023
+Proceedings of the AAAI International Conference on Artificial Intelligence (**AAAI**), 2023
 
 Dongsheng Luo, Yuchen Bian, Yaowei Yan, Xiong Yu, Jun Huan, Xiao Liu, Xiang Zhang\
 [Random Walk on Multiple Networks](https://arxiv.org/abs/2307.01637)\
-IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023
 
 Minghao Lin, Minghao Cheng, Dongsheng Luo, Yueqi Chen\
 [CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning]()\
@@ -64,19 +64,19 @@ Workshop on Security of Space and Satellite Systems (SpaceSec@ NDSS), 2023
 
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment]()\
-ACM Transactions on Intelligent Systems and Technology (TIST), 2023
+ACM Transactions on Intelligent Systems and Technology (**TIST**), 2023
 
 Jiaxing Zhang, Zhuomin Chen, Hao Mei, Dongsheng Luo, Hua Wei\
 [RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
 Learning on Graphs Conference (LOG), 2023
 
-Xu Zheng, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo\
+Xu Zheng, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo<sup>*</sup>\
 [Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023
 
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Towards Faithful and Consistent Explanations for Graph Neural Networks]()\
-Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM), 2023
+Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
 
 Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mohan Mondal\
 [MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
@@ -90,8 +90,8 @@ Arxiv, 2023
 
 Dongsheng Luo, Shuai Ma, Yaowei Yan, Chunming Hu, Xiang Zhang, and Jinpeng Huai\
 [A Collective Approach to Scholar Name Disambiguation](https://ieeexplore.ieee.org/document/9147044)\
-In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022\
-IEEE International Conference on Data Engineering (ICDE), 2021.
+In IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022\
+IEEE International Conference on Data Engineering (**ICDE**), 2021.
 
 
 Tianchun Wang, Wei Cheng, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang\
@@ -106,13 +106,13 @@ Learning on Graphs Conference (LOG), 2022
 ### 2021
 
 
-Dongsheng Luo, Wei Cheng, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang\
+Dongsheng Luo<sup>E</sup>, Wei Cheng<sup>E</sup>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang\
 [Learning to Drop: Robust Graph Neural Network via Topological Denoising](https://arxiv.org/abs/2011.07057)\
-In Proceedings of 14th ACM International Conference on Web Search and Data Mining (WSDM), 2021
+In Proceedings of 14th ACM International Conference on Web Search and Data Mining (**WSDM**), 2021
 
 Dongkuan Xu, Wei Cheng, Dongsheng Luo, Haifeng Chen, Xiang Zhang\
 [Infogcl: Information-aware graph contrastive learning]()\
-Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2021
+Proceedings of Advances in Neural Information Processing Systems (**NeurIPS**), 2021
 
 Dongkuan Xu, Wei Cheng, Jingchao Ni, Dongsheng Luo, Masanao Natsumeda, Dongjin Song, Bo Zong, Haifeng Chen, Xiang Zhang\
 [Deep multi-instance contrastive learning with dual attention for anomaly precursor detection]()\
@@ -129,18 +129,18 @@ Arxiv, 2021
 ### 2020
 
 
-Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang\
+Dongsheng Luo<sup>E</sup>, Wei Cheng<sup>E</sup>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang\
 [Parameterized Explainer for Graph Neural Network](https://arxiv.org/abs/2011.04573)\
-in Proceedings of 34th Conference on Neural Information Processing Systems (NeurIPS), 2020
+in Proceedings of 34th Conference on Neural Information Processing Systems (**NeurIPS**), 2020
 
 
 Dongsheng Luo, Yuchen Bian, Yaowei Yan, Xiao Liu, Jun Huan, Xiang Zhang\
 [Local Community Detection in Multiple Networks](https://dl.acm.org/doi/10.1145/3394486.3403069)\
-in Proceedings of 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2020
+in Proceedings of 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2020
 
 Dongsheng Luo, Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu, Xiang Zhang\
 [Deep Multi-Graph Clustering via Attentive Cross-Graph Association](https://dl.acm.org/doi/abs/10.1145/3336191.3371806)\
-Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2020
+Proceedings of the ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
 
 Yuchen Bian, Dongsheng Luo, Yaowei Yan, Wei Cheng, Wei Wang, and Xiang Zhang\
 [Memory-based random walk for multi-query local community detection](https://link.springer.com/article/10.1007/s10115-019-01398-3)\
@@ -155,11 +155,11 @@ IEEE International Conference on Data Mining (ICDM), 2019
 
 Dongkuan Xu, Wei Cheng, Dongsheng Luo, Xiang Zhang\
 [Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs]()\
-International Joint Conference on Artificial Intelligence (IJCAI), 2019
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2019
 
 Yaowei Yan, Yuchen Bian, Dongsheng Luo, Dongwon Lee, Xiang Zhang\
 [Constrained local graph clustering by colored random walk]()\
-The world wide web conference (WWW), 2019
+The world wide web conference (**WWW**), 2019
 
 Yuchen Bian, Yaowei Yan, Wei Cheng, Wei Wang, Dongsheng Luo, Xiang Zhang\
 [On multi-query local community detection]()\
@@ -167,7 +167,7 @@ IEEE international conference on data mining (ICDM), 2018
 
 Shuai Ma, Chen Gong, Renjun Hu, Dongsheng Luo, Chunming Hu, Jinpeng Huai\
 [Query independent scholarly article ranking]()\
-IEEE 34th international conference on data engineering (ICDE), 2018
+IEEE 34th international conference on data engineering (**ICDE**), 2018
 
 Yaowei Yan, Dongsheng Luo, Jingchao Ni, Hongliang Fei, Wei Fan, Xiong Yu, John Yen, Xiang Zhang\
 [Local graph clustering by multi-network random walk with restart]()\
