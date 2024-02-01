@@ -35,14 +35,14 @@ Xu Zheng<sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, Zhuo
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024
 
-Dongsheng Luo, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
-[Towards Inductive and Efficient Explanations for Graph Neural Networks]()\
-IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
-
 Zichuan Liu, Yingying Zhang, Tianchun Wang, Zefan Wang, Dongsheng Luo, Mengnan Du, Min Wu, Yi Wang, Chunlin Chen, Lunting Fan, Qingsong Wen\
 [Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
 The International Conference on Learning Representations (**ICLR**), 2024
 
+
+Dongsheng Luo, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
+[Towards Inductive and Efficient Explanations for Graph Neural Networks]()\
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
 Rundong Huang, <u>Farhad Shirani</u>, <u>Dongsheng Luo</u>\
 [Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
