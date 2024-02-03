@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-<p><sup>E</sup> indicates equal contribution, underlines indicate corresponding author</p>
+<p><sup>E</sup> indicates equal contribution, underlines indicate Ph.D. students in our lab</p>, <sup>&#x2605;</sup> indicates corresponding author.</p>
 
 ## Recent Preprints
 
@@ -26,12 +26,12 @@ arXiv:2310.10064
 
 ### 2024
 
-**Xu Zheng**, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and <u>Dongsheng Luo</u>\
+<u>Xu Zheng</u>, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and Dongsheng Luo<sup>&#x2605;</sup>\
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
 
-**Xu Zheng**<sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, **Zhuomin Chen**, Haifeng Chen, Hua Wei, <u>Dongsheng Luo</u> \
+<u>Xu Zheng</u><sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, <u>Zhuomin Chen</u>, Haifeng Chen, Hua Wei, Dongsheng Luo<sup>&#x2605;</sup> \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024
 
@@ -44,7 +44,7 @@ Dongsheng Luo, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Z
 [Towards Inductive and Efficient Explanations for Graph Neural Networks]()\
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
-Rundong Huang, <u>Farhad Shirani</u>, <u>Dongsheng Luo</u>\
+Rundong Huang, Farhad Shirani, Dongsheng Luo <sup>&#x2605;</sup>\
 [Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
@@ -70,11 +70,11 @@ Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment]()\
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2023
 
-Jiaxing Zhang, Zhuomin Chen, Hao Mei, Dongsheng Luo, Hua Wei\
+Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei\
 [RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
 Learning on Graphs Conference (LOG), 2023
 
-**Xu Zheng**, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, <u>Dongsheng Luo</u>\
+<u>Xu Zheng</u>, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo<sup>&#x2605;</sup>\
 [Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023
 
