@@ -72,7 +72,7 @@ Workshop on Security of Space and Satellite Systems (SpaceSec@ NDSS), 2023
 
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment]()\
-ACM Transactions on Intelligent Systems and Technology (**TIST**), 2023
+ACM Transactions on Intelligent Systems and Technology (TIST), 2023
 
 <u>Xu Zheng</u>, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo<sup>&#x2605;</sup>\
 [Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
