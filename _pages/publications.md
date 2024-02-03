@@ -62,6 +62,10 @@ Dongsheng Luo, Yuchen Bian, Yaowei Yan, Xiong Yu, Jun Huan, Xiao Liu, Xiang Zhan
 [Random Walk on Multiple Networks](https://arxiv.org/abs/2307.01637)\
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023
 
+Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei\
+[RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
+Learning on Graphs Conference (LOG), 2023
+
 Minghao Lin, Minghao Cheng, Dongsheng Luo, Yueqi Chen\
 [CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning]()\
 Workshop on Security of Space and Satellite Systems (SpaceSec@ NDSS), 2023
@@ -69,10 +73,6 @@ Workshop on Security of Space and Satellite Systems (SpaceSec@ NDSS), 2023
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment]()\
 ACM Transactions on Intelligent Systems and Technology (**TIST**), 2023
-
-Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei\
-[RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
-Learning on Graphs Conference (LOG), 2023
 
 <u>Xu Zheng</u>, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo<sup>&#x2605;</sup>\
 [Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
