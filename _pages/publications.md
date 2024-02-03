@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-<p><sup>E</sup> indicates equal contribution, underlines indicate Ph.D. students in our lab</p>, <sup>&#x2605;</sup> indicates corresponding author.</p>
+<p><sup>E</sup> indicates equal contribution, underlines indicate Ph.D. students in our lab, <sup>&#x2605;</sup> indicates corresponding author.</p>
 
 ## Recent Preprints
 
