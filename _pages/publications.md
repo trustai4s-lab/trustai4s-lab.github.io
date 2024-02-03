@@ -80,7 +80,7 @@ IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023
 
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Towards Faithful and Consistent Explanations for Graph Neural Networks]()\
-Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
+Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM), 2023
 
 Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mohan Mondal\
 [MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
@@ -112,7 +112,7 @@ Learning on Graphs Conference (LOG), 2022
 
 Dongsheng Luo<sup>E</sup>, Wei Cheng<sup>E</sup>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang\
 [Learning to Drop: Robust Graph Neural Network via Topological Denoising](https://arxiv.org/abs/2011.07057)\
-In Proceedings of 14th ACM International Conference on Web Search and Data Mining (**WSDM**), 2021
+In Proceedings of 14th ACM International Conference on Web Search and Data Mining (WSDM), 2021
 
 Dongkuan Xu, Wei Cheng, Dongsheng Luo, Haifeng Chen, Xiang Zhang\
 [Infogcl: Information-aware graph contrastive learning]()\
@@ -144,7 +144,7 @@ in Proceedings of 26th ACM SIGKDD Conference on Knowledge Discovery and Data Min
 
 Dongsheng Luo, Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu, Xiang Zhang\
 [Deep Multi-Graph Clustering via Attentive Cross-Graph Association](https://dl.acm.org/doi/abs/10.1145/3336191.3371806)\
-Proceedings of the ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2020
 
 Yuchen Bian, Dongsheng Luo, Yaowei Yan, Wei Cheng, Wei Wang, and Xiang Zhang\
 [Memory-based random walk for multi-query local community detection](https://link.springer.com/article/10.1007/s10115-019-01398-3)\
