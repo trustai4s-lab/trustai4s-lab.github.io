@@ -26,12 +26,12 @@ arXiv:2310.10064
 
 ### 2024
 
-Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and <u>Dongsheng Luo</u>\
+**Xu Zheng**, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and <u>Dongsheng Luo</u>\
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
 
-Xu Zheng<sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, <u>Dongsheng Luo</u> \
+**Xu Zheng**<sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, **Zhuomin Chen**, Haifeng Chen, Hua Wei, <u>Dongsheng Luo</u> \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024
 
@@ -74,7 +74,7 @@ Jiaxing Zhang, Zhuomin Chen, Hao Mei, Dongsheng Luo, Hua Wei\
 [RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
 Learning on Graphs Conference (LOG), 2023
 
-Xu Zheng, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, <u>Dongsheng Luo</u>\
+**Xu Zheng**, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, <u>Dongsheng Luo</u>\
 [Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023
 
