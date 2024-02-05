@@ -13,6 +13,11 @@ permalink: /publications/
 
 ## Recent Preprints
 
+Qianying Ren, Dongsheng Luo, Dongjin Song\
+[Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
+Arxiv, 2024
+
+
 Han Xuanyuan, Tianxiang Zhao, and <u>Dongsheng Luo</u>\
 [Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)\
 NeurIPS 2023 Workshop: New Frontiers in Graph Learning, 2023
