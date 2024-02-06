@@ -13,10 +13,13 @@ permalink: /publications/
 
 ## Recent Preprints
 
+<u>Zhuomin Chen</u>, Jiaxing Zhang, Jingchao Ni, Xiaoting Li, Yuchen Bian, Md Islam, Ananda Mondal, Hua Wei and Dongsheng Luo\
+[Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
+Arivx, 2024
+
 Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
 Arxiv, 2024
-
 
 Han Xuanyuan, Tianxiang Zhao, and <u>Dongsheng Luo</u>\
 [Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)\
