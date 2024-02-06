@@ -13,7 +13,7 @@ permalink: /publications/
 
 ## Recent Preprints
 
-<u>Zhuomin Chen</u>, Jiaxing Zhang, Jingchao Ni, Xiaoting Li, Yuchen Bian, Md Islam, Ananda Mondal, Hua Wei and Dongsheng Luo\
+<u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei and Dongsheng Luo\
 [Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
 Arivx, 2024
 
