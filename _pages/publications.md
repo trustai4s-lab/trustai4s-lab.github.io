@@ -43,7 +43,7 @@ The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory,
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024
 
-Zichuan Liu, Yingying Zhang, Tianchun Wang, Zefan Wang, Dongsheng Luo, Mengnan Du, Min Wu, Yi Wang, Chunlin Chen, Lunting Fan, Qingsong Wen\
+Zichuan Liu, Y. Zhang, T. Wang, Z. Wang, Dongsheng Luo, M. Du, M. Wu, Y. Wang, C. Chen, L. Fan, Qingsong Wen\
 [Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
 The International Conference on Learning Representations (**ICLR**), 2024
 
@@ -66,7 +66,7 @@ Dongsheng Luo, W. Cheng, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen
 [Time Series Contrastive Learning with Information-Aware Augmentations](https://arxiv.org/abs/2303.11911)\
 Proceedings of the AAAI International Conference on Artificial Intelligence (**AAAI**), 2023
 
-Dongsheng Luo, Yuchen Bian, Yaowei Yan, Xiong Yu, Jun Huan, Xiao Liu, Xiang Zhang\
+Dongsheng Luo, Y. Bian, Y. Yan, X. Yu, J. Huan, X. Liu, Xiang Zhang\
 [Random Walk on Multiple Networks](https://arxiv.org/abs/2307.01637)\
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023
 
