@@ -34,12 +34,12 @@ arXiv:2310.10064
 
 ### 2024
 
-<u>Xu Zheng</u>, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, and Dongsheng Luo<sup>&#x2605;</sup>\
+<u>Xu Zheng</u>, T., W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo<sup>&#x2605;</sup>\
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
 
-<u>Xu Zheng</u><sup>E</sup>, Farhad Shirani<sup>E</sup>, Tianchun Wang, Wei Cheng, <u>Zhuomin Chen</u>, Haifeng Chen, Hua Wei, Dongsheng Luo<sup>&#x2605;</sup> \
+<u>Xu Zheng</u><sup>E</sup>, Farhad Shirani<sup>E</sup>, T. Wang, W. Cheng, <u>Zhuomin Chen</u>, H. Chen, H. Wei, Dongsheng Luo<sup>&#x2605;</sup> \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024
 
