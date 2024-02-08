@@ -18,7 +18,7 @@ permalink: /publications/
 Arivx, 2024
 
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo<sup>&#x2605;</sup>\
-[PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)
+[PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
 
 Qianying Ren, Dongsheng Luo, Dongjin Song\
