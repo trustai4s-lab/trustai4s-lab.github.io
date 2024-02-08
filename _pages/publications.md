@@ -17,6 +17,10 @@ permalink: /publications/
 [Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
 Arivx, 2024
 
+<u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo<sup>&#x2605;</sup>\
+[PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)
+Arivx, 2024
+
 Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
 Arxiv, 2024
