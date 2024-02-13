@@ -53,7 +53,7 @@ The International Conference on Learning Representations (**ICLR**), 2024
 
 
 Dongsheng Luo, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
-[Towards Inductive and Efficient Explanations for Graph Neural Networks]()\
+[Towards Inductive and Efficient Explanations for Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10423141)\
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
 Rundong Huang, Farhad Shirani, Dongsheng Luo <sup>&#x2605;</sup>\
