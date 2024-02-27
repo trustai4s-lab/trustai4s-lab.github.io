@@ -6,7 +6,7 @@ sitemap: false
 permalink: /fidelity
 ---
 
-## Robust fidelity ( Fidα )  [paper](https://openreview.net/pdf?id=up6hr4hIQH) [code](https://github.com/AslanDing/Fidelity) 
+## Robust fidelity ( Fidα )  [[paper]](https://openreview.net/pdf?id=up6hr4hIQH) [[code]](https://github.com/AslanDing/Fidelity) 
 
 ### abstract
 
