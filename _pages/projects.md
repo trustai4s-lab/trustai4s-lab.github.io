@@ -1,16 +1,12 @@
 ---
-title: "DAMI Lab - Openings"
+title: "DAMI Lab - Projects"
 layout: textlay
 excerpt: "projects"
 sitemap: false
 permalink: /projects
 ---
-## Openings
+# Projects
 
-We are looking for intern students who are interested in pursuing data mining and machine learning research, especially in trustworthy AI.
+## Robust fidelity($Fidelity_\alpha$) [project](https://trustai4s-lab.github.io/fid_a_project.html) [paper](https://openreview.net/pdf?id=up6hr4hIQH) [code](https://github.com/AslanDing/Fidelity) 
+In this project, we present robust fidelity metric for explainable graph neural network to  alleivate the OOD(Out-of-Distribution) problem.
 
-If you are interested in working with us, please feel free to contact us. 
-
-- Please provide a few sentences to introduce yourself and express your interest in the position
-
-- Please attach your CV/Resume
