@@ -29,7 +29,18 @@ resilient to distribution shift issues and are applicable in a wide range of sce
 Extensive empirical analysis on both synthetic and real datasets are provided to
 illustrate that the proposed metrics are more coherent with gold standard metrics
 
-### 
+### illustration
+We provide an illustration to understand how our method works.
+
+<center class="ba2">
+<table>
+  <tr>
+    <td><img src="../images/fidelity/fid_alpha.jpg"  width = "100%" alt="" align=center /> </td>
+  </tr>
+ </table>
+
+</center>
+
 
 
 ### Experiments
