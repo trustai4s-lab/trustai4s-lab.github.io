@@ -1,9 +1,9 @@
 ---
-title: "DAMI Lab - fid_a_project"
+title: "DAMI Lab - fidelity"
 layout: textlay
-excerpt: "fid_a_project"
+excerpt: "fidelity"
 sitemap: false
-permalink: /fid_a_project
+permalink: /fidelity
 ---
 
 ## Robust fidelity ( Fidα )  [paper](https://openreview.net/pdf?id=up6hr4hIQH) [code](https://github.com/AslanDing/Fidelity) 
