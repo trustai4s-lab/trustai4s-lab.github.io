@@ -10,27 +10,15 @@ permalink: /fidelity
 
 ### abstract
 
-Graph Neural Networks (GNNs) are neural models that leverage the dependency
-structure in graphical data via message passing among the graph nodes. GNNs
-have emerged as pivotal architectures in analyzing graph-structured data, and their
-expansive application in sensitive domains requires a comprehensive understanding of their decision-making processes necessitating a framework for GNN
-explainability. An explanation function for GNNs takes a pre-trained GNN along
-with a graph as input, to produce a ‘sufficient statistic’ subgraph with respect to
-the graph label. A main challenge in studying GNN explainability is to provide
-fidelity measures that evaluate the performance of these explanation functions.
-This paper studies this foundational challenge, spotlighting the inherent limitations
-of prevailing fidelity metrics, including  Fid+, Fid−, and Fid∆. Specifically, a
-formal, information-theoretic definition of explainability is introduced and it is
-shown that existing metrics often fail to align with this definition across various
-statistical scenarios. The reason is due to potential distribution shifts when subgraphs are removed in computing these fidelity measures. 
-Subsequently, a robust
-class of fidelity measures are introduced, and it is shown analytically that they are
-resilient to distribution shift issues and are applicable in a wide range of scenarios.
-Extensive empirical analysis on both synthetic and real datasets are provided to
-illustrate that the proposed metrics are more coherent with gold standard metrics
+Graph Neural Networks (GNNs) have emerged as pivotal architectures in analyzing graph-structured data, and their expansive application in sensitive domains requires a comprehensive understanding of their decision-making processes necessitating a framework for GNN explainability. An explanation function for GNNs takes a pre-trained GNN along with a graph as input, to produce a ‘sufficient statistic’ subgraph with respect to the graph label. A main challenge in studying GNN explainability is to provide fidelity measures that evaluate the performance of these explanation functions.
 
-### illustration
-We provide an illustration to understand how our method works.
+This paper studies this foundational challenge, spotlighting the inherent limitations of prevailing fidelity metrics, including  $Fid_+$, $Fid_−$, and $Fid_Delta$. Specifically, a formal, information-theoretic definition of explainability is introduced and it is shown that existing metrics often fail to align with this definition across various statistical scenarios. The reason is due to potential distribution shifts when subgraphs are removed in computing these fidelity measures. 
+Subsequently, a robust class of fidelity measures are introduced, and it is shown analytically that they are resilient to distribution shift issues and are applicable in a wide range of scenarios. Extensive empirical analysis on both synthetic and real datasets are provided to illustrate that the proposed metrics are more coherent with gold standard metrics
+
+### Explaining GNN Models
+
+### Fidelity and OOD Problems.
+We illustrate to understand how our method works.
 
 <center class="ba2">
 <table>
@@ -41,6 +29,7 @@ We provide an illustration to understand how our method works.
 
 </center>
 
+### Robust Fidelity
 
 
 ### Experiments
