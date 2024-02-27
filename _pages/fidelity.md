@@ -1,5 +1,5 @@
 ---
-title: "DAMI Lab - fidelity"
+title: "TrustAI Lab - Fidelity"
 layout: textlay
 excerpt: "fidelity"
 sitemap: false
