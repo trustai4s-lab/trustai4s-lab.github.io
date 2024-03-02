@@ -32,7 +32,7 @@ To evaluate the faithfulness of the explanation methods, the Fidelity method are
 <center class="ba2">
 <table>
   <tr>
-    <td><img src="../images/fidelity/ori_fidelity.jpg"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/fidelity/ori_fidelity.JPG"  width = "50%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
