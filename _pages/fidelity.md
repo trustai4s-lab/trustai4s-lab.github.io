@@ -15,7 +15,7 @@ Subsequently, a robust class of fidelity measures are introduced, and it is show
 ### Explainable methods
 Explainable AI help us to understand how the model make prediction. The following figure shows some explain methods. In graph domain, an explanation is usually a subgraph, such as NH$_2$ and NO$_2$ in Mutag dataset. In NLP tasks, the explanations are the most important words. For time series, the explanations are the time stamps. In a image, the explanation is the foreground that the model focus on. In current paper, we first introduce our method on graph domain.
  
-<center class="ba2">
+<center class="explain">
 <table>
   <tr>
     <td><img src="../images/fidelity/fidelity_explanation.png"  width = "100%" alt="" align=center /> </td>
@@ -27,9 +27,14 @@ Explainable AI help us to understand how the model make prediction. The followin
 ### Metric
 How to evaluate the explanation method is a challenge due to some problem sucha as lacking of groundtruth, multi-motifs and etc. In an image or sentance, it is for human to understand the context concepts and know if the explanations are correct. However, in graph and time series domain, human extract context concepts hard. A tuitive way is to compare ground truth with explanation results, so some common metrics, such as accuracy, recall, AUC, and etc, can be easily tranfer to explainable AI. In graph explanation methods, some synthetic datasets, such as ba2shapes,ba2motifs, are introduced to evaluate the explanation methods. The shortcoming of this metric is obveriously. The real world datasets are more complex than synthetic datasets and hard to obtain groundtruth.
 
+
+
+
+
+### Fidelity and OOD Problems.
 To evaluate the faithfulness of the explanation methods, the Fidelity method are introduced. The tuitive idea is if the explanation part is critical for the prediction model, the model can infer the results from explanation. On the contrary, the non-explanation part will cause the shifts of pridiction. Based on this idea, we can have $Fid+, Fid-, Fid_\Delta$. Formally, we have：
 
-<center class="ba2">
+<center class="metric">
 <table>
   <tr>
     <td><img src="../images/fidelity/ori_fidelity.JPG"  width = "50%" alt="" align=center /> </td>
@@ -39,10 +44,47 @@ To evaluate the faithfulness of the explanation methods, the Fidelity method are
 
 Fidelity provide another method to evaluate the fithfulness of the explanation, which can be applied to real world datasets. 
 
+According to Fidelity definition, there exists Out-of-Distribution(OOD) problem might cause inaccurate results because of the domain shift between original training data and explanation data. We select one figure from [(Zhuomin Chen et. al.)](https://arxiv.org/pdf/2402.02036.pdf) to illustrate this phenomena.
+<center class="ood">
+<table>
+  <tr>
+    <td><img src="../images/fidelity/OOD.JPG"  width = "80%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
 
 
-### Fidelity and OOD Problems.
-We illustrate to understand how our method works.
+### Robust Fidelity
+
+
+To alleviate this problem, this work introduce a new metric , robust fidelity, as a new fithfulness metric. In this method, we randomly delete edges from explanation/non-explanation subgraph by using a hyperprameter $\alpha$. Random sampling technology is used to achieve that. Formally, we have the probability-based robust fidelity scores ： 
+<center class="robust_fid">
+<table>
+  <tr>
+    <td><img src="../images/fidelity/prob_robust_fid.JPG"  width = "70%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+Similarly, we can have the accuracy-based robust fidelity scores :
+<center class="robust_fid">
+<table>
+  <tr>
+    <td><img src="../images/fidelity/acc_robust_fid.JPG"  width = "70%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+
+The algorithm of this method can be summarized as follows:
+<center class="algorithm">
+<table>
+  <tr>
+    <td><img src="../images/fidelity/algorithm1.JPG"  width = "100%" alt="" align=center /> </td>
+    <td><img src="../images/fidelity/algorithm2.JPG"  width = "100%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+
+We also use a figure to illustrate how our method works.
 
 <center class="ba2">
 <table>
@@ -53,10 +95,13 @@ We illustrate to understand how our method works.
 
 </center>
 
-### Robust Fidelity
+
+### Extend to Image, NLP, and Time Series
+
+To be continue
 
 
-### Experiments
+###  Graph Experiments
 #### Probability ori. Fidelity results of Ba2Motifs dataset, the x-axis means adding non-explanation edges to GT, y-axis means remove edges from GT. The following three figures are Original Fid+, Fid−, and Fid∆.
 
 <center class="ba2">
