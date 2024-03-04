@@ -15,7 +15,7 @@ permalink: /publications/
 
 <u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei and Dongsheng Luo<sup>&#x2605;</sup>\
 [Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
-Arivx, 2024
+TrustLOG @ WWW, 2024
 
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo<sup>&#x2605;</sup>\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
@@ -45,12 +45,12 @@ The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory,
 
 <u>Xu Zheng</u><sup>E</sup>, Farhad Shirani<sup>E</sup>, T. Wang, W. Cheng, <u>Zhuomin Chen</u>, H. Chen, H. Wei, Dongsheng Luo<sup>&#x2605;</sup> \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
-The International Conference on Learning Representations (**ICLR**), 2024
+The International Conference on Learning Representations (**ICLR**), 2024\
+TrustLOG @ WWW, 2024
 
 Zichuan Liu, Y. Zhang, T. Wang, Z. Wang, Dongsheng Luo, M. Du, M. Wu, Y. Wang, C. Chen, L. Fan, Qingsong Wen\
 [Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
 The International Conference on Learning Representations (**ICLR**), 2024
-
 
 Dongsheng Luo, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
 [Towards Inductive and Efficient Explanations for Graph Neural Networks]()\
@@ -59,6 +59,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 Rundong Huang, Farhad Shirani, Dongsheng Luo <sup>&#x2605;</sup>\
 [Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
+
+Behzad Ousat, Dongsheng Luo, Amin Kharraz\
+[Breaking the Bot Barrier: Evaluating the Effectiveness of Adversarial AI Techniques Against Multi-Modal Defense Models]()\
+Short Paper Track in International World Wide Web Conference (**WWW**), 2024.
 
 ### 2023
 
