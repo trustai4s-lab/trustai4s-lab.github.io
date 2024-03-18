@@ -44,7 +44,7 @@ To evaluate the faithfulness of the explanation methods, the Fidelity method are
 
 Fidelity provide another method to evaluate the fithfulness of the explanation, which can be applied to real world datasets. 
 
-According to Fidelity definition, there exists Out-of-Distribution(OOD) problem might cause inaccurate results because of the domain shift between original training data and explanation data. We select one figure from [(Zhuomin Chen et. al.)](https://arxiv.org/pdf/2402.02036.pdf) to illustrate this phenomena.
+According to Fidelity definition, there exists Out-of-Distribution(OOD) problem might cause inaccurate results because of the domain shift between original training data and explanation data. In some concurrent work, they also mentionedt this problem, such as [OAR](https://proceedings.neurips.cc/paper_files/paper/2023/file/e55c2f3fdde519014c879aa3554414c0-Paper-Conference.pdf),[GInx-eval](https://arxiv.org/abs/2309.16223). We select one figure from [(Zhuomin Chen et. al.)](https://arxiv.org/pdf/2402.02036.pdf) to illustrate this phenomena.
 <center class="ood">
 <table>
   <tr>
