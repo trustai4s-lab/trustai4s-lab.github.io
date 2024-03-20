@@ -33,6 +33,15 @@ Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
 [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/abs/2310.10064)\
 arXiv:2310.10064
 
+Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
+[Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)\
+arXiv:2403.06013
+
+Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chug, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chi-Te Wang, Pei-fu Chen, Feng Liu, Fang-Ming Hung\
+[Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data](https://arxiv.org/abs/2403.04785)\
+https://arxiv.org/abs/2403.04785
+
+
 
 ## Conference and Journal Publications
 
@@ -63,6 +72,11 @@ The AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 Behzad Ousat, Dongsheng Luo, Amin Kharraz\
 [Breaking the Bot Barrier: Evaluating the Effectiveness of Adversarial AI Techniques Against Multi-Modal Defense Models]()\
 Short Paper Track in International World Wide Web Conference (**WWW**), 2024.
+
+Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mohan Mondal\
+[MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
+International Journal of Molecular Sciences\
+The 15th RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB), 2023
 
 ### 2023
 
@@ -98,15 +112,11 @@ Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Towards Faithful and Consistent Explanations for Graph Neural Networks]()\
 Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining (WSDM), 2023
 
-Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mohan Mondal\
-[MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
-The 15th RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB), 2023.
-
 Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, Junjie Xu, Hui Liu, Suhang Wang\
 [Self-Explainable Graph Neural Networks for Link Prediction]()\
 Arxiv, 2023
 
-### 2022
+### 2022 and Before
 
 Dongsheng Luo, Shuai Ma, Yaowei Yan, Chunming Hu, Xiang Zhang, and Jinpeng Huai\
 [A Collective Approach to Scholar Name Disambiguation](https://ieeexplore.ieee.org/document/9147044)\
@@ -121,10 +131,6 @@ IEEE International Conference on Data Mining (ICDM), 2022
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [TopoImb: Toward Topology-level Imbalance in Learning from Graphs]()\
 Learning on Graphs Conference (LOG), 2022
-
-
-### 2021
-
 
 Dongsheng Luo<sup>E</sup>, Wei Cheng<sup>E</sup>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang\
 [Learning to Drop: Robust Graph Neural Network via Topological Denoising](https://arxiv.org/abs/2011.07057)\
@@ -146,9 +152,6 @@ Dongsheng Luo, Wei Cheng, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Bo Zong, Yanchi
 [Unsupervised document embedding via contrastive augmentation](https://proceedings.mlr.press/v139/liu21k.html)\
 Arxiv, 2021
 
-### 2020
-
-
 Dongsheng Luo<sup>E</sup>, Wei Cheng<sup>E</sup>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang\
 [Parameterized Explainer for Graph Neural Network](https://arxiv.org/abs/2011.04573)\
 in Proceedings of 34th Conference on Neural Information Processing Systems (**NeurIPS**), 2020
@@ -165,9 +168,6 @@ Proceedings of the ACM International Conference on Web Search and Data Mining (W
 Yuchen Bian, Dongsheng Luo, Yaowei Yan, Wei Cheng, Wei Wang, and Xiang Zhang\
 [Memory-based random walk for multi-query local community detection](https://link.springer.com/article/10.1007/s10115-019-01398-3)\
 Knowledge and Information Systems (KAIS), 2020
-
-
-### Before 2020
 
 Dongkuan Xu, Wei Cheng, Dongsheng Luo, Yameng Gu, Xiao Liu, Jingchao Ni, Bo Zong, Haifeng Chen, Xiang Zhang\
 [Adaptive neural network for node classification in dynamic networks]()\
