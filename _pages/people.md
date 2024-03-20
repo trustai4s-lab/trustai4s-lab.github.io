@@ -88,7 +88,7 @@ permalink: /people/
 
 
 
-## PhDs
+## Ph.D.Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
