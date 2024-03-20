@@ -75,7 +75,7 @@ Short Paper Track in International World Wide Web Conference (**WWW**), 2024.
 
 Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mohan Mondal\
 [MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
-International Journal of Molecular Sciences\
+International Journal of Molecular Sciences (IJMS), 2024\
 The 15th RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB), 2023
 
 ### 2023
@@ -116,7 +116,7 @@ Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, Junjie Xu, Hui Liu, Suhang Wang\
 [Self-Explainable Graph Neural Networks for Link Prediction]()\
 Arxiv, 2023
 
-### 2022 and Before
+### 2022 
 
 Dongsheng Luo, Shuai Ma, Yaowei Yan, Chunming Hu, Xiang Zhang, and Jinpeng Huai\
 [A Collective Approach to Scholar Name Disambiguation](https://ieeexplore.ieee.org/document/9147044)\
@@ -131,6 +131,8 @@ IEEE International Conference on Data Mining (ICDM), 2022
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [TopoImb: Toward Topology-level Imbalance in Learning from Graphs]()\
 Learning on Graphs Conference (LOG), 2022
+
+### 2021 and Before
 
 Dongsheng Luo<sup>E</sup>, Wei Cheng<sup>E</sup>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang\
 [Learning to Drop: Robust Graph Neural Network via Topological Denoising](https://arxiv.org/abs/2011.07057)\
