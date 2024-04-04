@@ -47,7 +47,7 @@ https://arxiv.org/abs/2403.04785
 
 ### 2024
 
-<u>Xu Zheng</u>, T., W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo<sup>&#x2605;</sup>\
+<u>Xu Zheng</u>, T. Wang, W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo<sup>&#x2605;</sup>\
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
