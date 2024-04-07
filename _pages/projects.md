@@ -24,9 +24,7 @@ We present a family of robust fidelity metrics for explainable graph neural netw
 <b>Data Augmentation</b>: [[Arxiv 24]](https://arxiv.org/abs/2402.05039)
 
 ## 2. Self-Supervised Learning
-<b> Graphs </b>: [[NeurIPS 21]](https://arxiv.org/abs/2110.15438)
+<b> Graphs </b>: [[NeurIPS 21]](https://arxiv.org/abs/2110.15438)  
 <b>Time Series</b>: [[AAAI 23]](https://arxiv.org/abs/2303.11911) [[ICLR 24b]](https://arxiv.org/abs/2402.10434)
 
-
-
-##
+## 3. Architecture & Algorithm Designs
