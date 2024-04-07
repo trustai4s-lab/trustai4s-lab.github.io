@@ -25,7 +25,7 @@ Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
 Arxiv, 2024
 
-Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo<sup>&#x2605;</sup>\
+Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo\
 [Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)\
 NeurIPS 2023 Workshop: New Frontiers in Graph Learning, 2023
 
@@ -39,7 +39,7 @@ arXiv:2403.06013
 
 Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chug, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chi-Te Wang, Pei-fu Chen, Feng Liu, Fang-Ming Hung\
 [Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data](https://arxiv.org/abs/2403.04785)\
-https://arxiv.org/abs/2403.04785
+arxiv:2403.04785
 
 
 
