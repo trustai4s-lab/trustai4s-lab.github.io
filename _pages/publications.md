@@ -25,13 +25,13 @@ Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
 Arxiv, 2024
 
-Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo\
-[Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)\
-NeurIPS 2023 Workshop: New Frontiers in Graph Learning, 2023
-
 Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
 [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/abs/2310.10064)\
 arXiv:2310.10064
+
+Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
+[Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
+arxiv:2404.04559
 
 Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
 [Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)\
@@ -61,7 +61,7 @@ Zichuan Liu, Y. Zhang, T. Wang, Z. Wang, Dongsheng Luo, M. Du, M. Wu, Y. Wang, C
 [Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
 The International Conference on Learning Representations (**ICLR**), 2024
 
-Dongsheng Luo, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
+Dongsheng Luo<sup>&#x2605;</sup>, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
 [Towards Inductive and Efficient Explanations for Graph Neural Networks]()\
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
@@ -88,7 +88,11 @@ Dongsheng Luo, W. Cheng, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen
 [Time Series Contrastive Learning with Information-Aware Augmentations](https://arxiv.org/abs/2303.11911)\
 Proceedings of the AAAI International Conference on Artificial Intelligence (**AAAI**), 2023
 
-Dongsheng Luo, Y. Bian, Y. Yan, X. Yu, J. Huan, X. Liu, Xiang Zhang\
+Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo\
+[Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)\
+NeurIPS 2023 Workshop: New Frontiers in Graph Learning, 2023
+
+Dongsheng Luo<sup>&#x2605;</sup>, Y. Bian, Y. Yan, X. Yu, J. Huan, X. Liu, Xiang Zhang\
 [Random Walk on Multiple Networks](https://arxiv.org/abs/2307.01637)\
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023
 
