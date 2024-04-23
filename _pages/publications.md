@@ -9,15 +9,15 @@ permalink: /publications/
 
 # Publications
 
-<p><sup>E</sup> indicates equal contribution, ______ indicate Ph.D. students in our lab, <sup>&#x2605;</sup> indicates corresponding author.</p>
+<p><sup>E</sup> indicates equal contribution, ______ indicate Ph.D. students in our lab.</p>
 
 ## Recent Preprints
 
-<u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei and Dongsheng Luo<sup>&#x2605;</sup>\
+<u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei and Dongsheng Luo\
 [Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
 TrustLOG @ WWW, 2024
 
-<u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo<sup>&#x2605;</sup>\
+<u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
 
@@ -47,12 +47,12 @@ arxiv:2403.04785
 
 ### 2024
 
-<u>Xu Zheng</u>, T. Wang, W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo<sup>&#x2605;</sup>\
+<u>Xu Zheng</u>, T. Wang, W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo\
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
 
-<u>Xu Zheng</u><sup>E</sup>, Farhad Shirani<sup>E</sup>, T. Wang, W. Cheng, <u>Zhuomin Chen</u>, H. Chen, H. Wei, Dongsheng Luo<sup>&#x2605;</sup> \
+<u>Xu Zheng</u><sup>E</sup>, Farhad Shirani<sup>E</sup>, T. Wang, W. Cheng, <u>Zhuomin Chen</u>, H. Chen, H. Wei, Dongsheng Luo \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 TrustLOG @ WWW, 2024
@@ -61,11 +61,11 @@ Zichuan Liu, Y. Zhang, T. Wang, Z. Wang, Dongsheng Luo, M. Du, M. Wu, Y. Wang, C
 [Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
 The International Conference on Learning Representations (**ICLR**), 2024
 
-Dongsheng Luo<sup>&#x2605;</sup>, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
+Dongsheng Luo, T. Zhao, W. Cheng, D. Xu, F. Han, W. Yu, X. Liu, H. Chen, Xiang Zhang \
 [Towards Inductive and Efficient Explanations for Graph Neural Networks]()\
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024
 
-Rundong Huang, Farhad Shirani, Dongsheng Luo <sup>&#x2605;</sup>\
+Rundong Huang, Farhad Shirani, Dongsheng Luo\
 [Factorized Explainer for Graph Neural Networks](https://arxiv.org/abs/2312.05596)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
@@ -92,7 +92,7 @@ Han Xuanyuan, Tianxiang Zhao, and Dongsheng Luo\
 [Shedding Light on Random Dropping and Oversmoothing](https://openreview.net/forum?id=NE8Da26bEW)\
 NeurIPS 2023 Workshop: New Frontiers in Graph Learning, 2023
 
-Dongsheng Luo<sup>&#x2605;</sup>, Y. Bian, Y. Yan, X. Yu, J. Huan, X. Liu, Xiang Zhang\
+Dongsheng Luo, Y. Bian, Y. Yan, X. Yu, J. Huan, X. Liu, Xiang Zhang\
 [Random Walk on Multiple Networks](https://arxiv.org/abs/2307.01637)\
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023
 
@@ -108,7 +108,7 @@ Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang\
 [Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment]()\
 ACM Transactions on Intelligent Systems and Technology (TIST), 2023
 
-<u>Xu Zheng</u>, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo<sup>&#x2605;</sup>\
+<u>Xu Zheng</u>, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo\
 [Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems]()\
 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2023
 
