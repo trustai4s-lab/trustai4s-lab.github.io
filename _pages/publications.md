@@ -55,7 +55,7 @@ The International Conference on Machine Learning (**ICML**), 2024\
 TrustLOG @ WWW, 2024
 
 Zichuan Liu, T. Wang, J. Shi, <u>X. Zheng</u>, <u>Z. Chen</u>, L. Song, W. Dong, J. Obeysekera, Farhad Shirani and Dongsheng Luo
-[TimeX++: Learning Time-Series Explanations with Information Bottleneck]()
+[TimeX++: Learning Time-Series Explanations with Information Bottleneck]()\
 The International Conference on Machine Learning (**ICML**), 2024
 
 <u>Xu Zheng</u>, T. Wang, W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo\
