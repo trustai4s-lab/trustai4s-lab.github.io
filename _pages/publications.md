@@ -13,13 +13,17 @@ permalink: /publications/
 
 ## Recent Preprints
 
-<u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei and Dongsheng Luo\
-[Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
-TrustLOG @ WWW, 2024
-
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
+
+Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
+[Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
+arxiv:2404.04559
+
+Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
+[Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
+arxiv:2404.15354
 
 Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
@@ -29,9 +33,7 @@ Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
 [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/abs/2310.10064)\
 arXiv:2310.10064
 
-Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
-[Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
-arxiv:2404.04559
+
 
 Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
 [Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)\
@@ -46,6 +48,15 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2024
+
+<u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei and Dongsheng Luo\
+[Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
+The International Conference on Machine Learning (**ICML**), 2024\
+TrustLOG @ WWW, 2024
+
+Zichuan Liu, T. Wang, J. Shi, <u>X. Zheng</u>, <u>Z. Chen</u>, L. Song, W. Dong, J. Obeysekera, Farhad Shirani and Dongsheng Luo
+[TimeX++: Learning Time-Series Explanations with Information Bottleneck]()
+The International Conference on Machine Learning (**ICML**), 2024
 
 <u>Xu Zheng</u>, T. Wang, W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo\
 [Parametric Augmentation for Time Series Contrastive Learning](https://openreview.net/forum?id=EIPLdFy3vp)\
