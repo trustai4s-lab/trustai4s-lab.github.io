@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-<p><sup>E</sup> indicates equal contribution, ______ indicate Ph.D. students in our lab.</p>
+______ indicate Ph.D. students in our lab.</p>
 
 ## Recent Preprints
 
@@ -32,7 +32,6 @@ Arxiv, 2024
 Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
 [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/abs/2310.10064)\
 arXiv:2310.10064
-
 
 
 Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
@@ -63,7 +62,7 @@ The International Conference on Machine Learning (**ICML**), 2024
 The International Conference on Learning Representations (**ICLR**), 2024\
 The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS), 2023 (Best Paper Award)
 
-<u>Xu Zheng</u><sup>E</sup>, Farhad Shirani<sup>E</sup>, T. Wang, W. Cheng, <u>Zhuomin Chen</u>, H. Chen, H. Wei, Dongsheng Luo \
+<u>Xu Zheng</u>, Farhad Shirani, T. Wang, W. Cheng, <u>Zhuomin Chen</u>, H. Chen, H. Wei, Dongsheng Luo \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024\
 TrustLOG @ WWW, 2024
@@ -91,7 +90,7 @@ The 15th RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB),
 
 ### 2023
 
-Jiaxing Zhang<sup>E</sup>, Dongsheng Luo<sup>E</sup>, Hua Wei\
+Jiaxing Zhang, Dongsheng Luo, Hua Wei\
 [MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation](https://arxiv.org/abs/2307.07832)\
 Proceedings of 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2023
 
