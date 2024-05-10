@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-______ indicate Ph.D. students in our lab.</p>
+<p>______ indicate Ph.D. students in our lab.</p>
 
 ## Recent Preprints
 
