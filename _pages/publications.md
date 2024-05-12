@@ -65,7 +65,7 @@ The Second Workshop of Artificial Intelligence for Time Series Analysis: Theory,
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, W. Cheng, <u>Zhuomin Chen</u>, H. Chen, H. Wei, Dongsheng Luo \
 [Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks](https://openreview.net/forum?id=up6hr4hIQH)\
 The International Conference on Learning Representations (**ICLR**), 2024\
-TrustLOG @ WWW, 2024
+2nd Workshop on TrustLOG @ WWW, 2024 (Best Paper Award Runner-Up)
 
 Zichuan Liu, Y. Zhang, T. Wang, Z. Wang, Dongsheng Luo, M. Du, M. Wu, Y. Wang, C. Chen, L. Fan, Qingsong Wen\
 [Explaining Time Series via Contrastive and Locally Sparse Perturbations]()\
