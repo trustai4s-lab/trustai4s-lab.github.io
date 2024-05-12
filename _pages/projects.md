@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects
 ---
 # eXplainable AI for Scientific Applications
-### 1. Robust Evaluation  [[Project]](https://trustai4s-lab.github.io/fidelity.html) [[ICLR24]](https://openreview.net/pdf?id=up6hr4hIQH) [[TrustLOG@WWW]](https://github.com/AslanDing/Fidelity) [[Code]](https://github.com/AslanDing/Fidelity)  
+### 1. Robust Evaluation  [[Project]](https://trustai4s-lab.github.io/fidelity.html) [[ICLR24]](https://openreview.net/pdf?id=up6hr4hIQH) [[TrustLOG@WWW]](https://trustai4s-lab.github.io/papers/TheWebConf24-robust%20fidelity.pdf) [[Code]](https://github.com/AslanDing/Fidelity)  
 We present a family of robust fidelity metrics for explainable graph neural networks to  alleviate the OOD(Out-of-Distribution) problem.
 
 ### 2. Architecture & Algorithm Designs
