@@ -2,10 +2,10 @@
   photo: xu.jpg
   info: Computer Science (Spring 2023)
   email: xzhen019@fiu.edu
-  number_educ: 1
-  education1: <u>ICLR 24a</u>, <u>ICLR 24b</u>, ICML 24b, <u>EuroSPW 23</u>
-  education2:
-  education3:
+  number_educ: 3
+  education1: ICML 24b, <u>ICLR 24a</u>, <u>ICLR 24b</u>, <u>EuroSPW 23</u>
+  education2: Best Paper Award, AI4TS@IJCAI 23
+  education3: Best Paper Award Runner Up, TrustLOG@WWW 24
   education4:
   education5:
   website: https://aslanding.github.io/
