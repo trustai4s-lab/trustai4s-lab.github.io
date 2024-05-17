@@ -49,7 +49,7 @@ arxiv:2403.04785
 ### 2024
 
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, and Suhang Wang\
-Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling\
+[Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling]()\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2024
 
 <u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei, and Dongsheng Luo\
@@ -58,7 +58,7 @@ The International Conference on Machine Learning (**ICML**), 2024\
 TrustLOG @ WWW, 2024
 
 Zichuan Liu, T. Wang, J. Shi, <u>Xu Zheng</u>, <u>Zhuomin Chen</u>, L. Song, W. Dong, J. Obeysekera, Farhad Shirani and Dongsheng Luo\
-[TimeX++: Learning Time-Series Explanations with Information Bottleneck]()\
+[TimeX++: Learning Time-Series Explanations with Information Bottleneck](https://arxiv.org/abs/2405.09308)\
 The International Conference on Machine Learning (**ICML**), 2024
 
 <u>Xu Zheng</u>, T. Wang, W. Cheng, A. Ma, H. Chen, M. Sha, and Dongsheng Luo\
