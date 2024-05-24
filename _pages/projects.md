@@ -10,13 +10,13 @@ permalink: /projects
 We present a family of robust fidelity metrics for explainable graph neural networks to  alleviate the OOD(Out-of-Distribution) problem.
 
 ### 2. Architecture & Algorithm Designs
-<b>Graphs</b>: [[NeurIPS 20]](https://arxiv.org/abs/2011.04573), [[SIGKDD 23]](https://arxiv.org/abs/2307.07832), [[TPAMI 24]](https://ieeexplore.ieee.org/abstract/document/10423141), [[AAAI 24]](https://arxiv.org/abs/2312.05596), [[TrustLOG@WWW 24]](https://arxiv.org/abs/2402.02036)  
-<b>Time Series</b>: [[ICLR24c]](https://arxiv.org/abs/2401.08552)
+<b>Graphs</b>: [[NeurIPS 20]](https://arxiv.org/abs/2011.04573), [[SIGKDD 23]](https://arxiv.org/abs/2307.07832), [[TPAMI 24]](https://ieeexplore.ieee.org/abstract/document/10423141), [[AAAI 24]](https://arxiv.org/abs/2312.05596), [[ICML 24a]](https://arxiv.org/abs/2402.02036)  
+<b>Time Series</b>: [[ICML 24b]](https://arxiv.org/abs/2405.09308), [[ICLR 24c]](https://arxiv.org/abs/2401.08552)
 
 ### 3. Applications
 <b>Health Informatics</b>: Protein Network, Patient Network  
 <b>Security Applications</b>:  Provenance Graphs  
-<b>Environmental Science</b>: [[Project]](https://climate-tech.cs.fiu.edu/research/) Sea Level Variability, Compound Flooding, Harmful Algae Bloom
+<b>Environmental Science</b>: [[Project]](https://climate-tech.cs.fiu.edu/research/) Sea Level Variability, Compound Flooding [[ICML 24b]](https://arxiv.org/abs/2405.09308), Harmful Algae Bloom
 
 ---
 
