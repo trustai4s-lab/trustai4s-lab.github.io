@@ -53,7 +53,7 @@ Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, and Suhang Wang\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2024
 
 <u>Zhuomin Chen</u>, J. Zhang, J. Ni, X. Li, Y. Bian, Md Islam, A. Mondal, H. Wei, and Dongsheng Luo\
-[Interpreting Graph Neural Networks with In-Distributed Proxies](https://arxiv.org/abs/2402.02036)\
+[Generating In-Distribution Proxy Graphs for Explaining Graph Neural Networks](https://arxiv.org/abs/2402.02036)\
 The International Conference on Machine Learning (**ICML**), 2024\
 TrustLOG @ WWW, 2024
 
