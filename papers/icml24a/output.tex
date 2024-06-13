@@ -1,0 +1,112 @@
+ %%%%%%%% ICML 2023 EXAMPLE LATEX SUBMISSION FILE %%%%%%%%%%%%%%%%%
+\documentclass{article}
+
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{svg}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage{tikz}
+\usepackage{booktabs} % for professional tables
+\usepackage{multirow}
+\usepackage{pgffor}
+\usepackage{graphbox}
+\input{math_commands}
+% \usepackage{algpseudocode}
+
+% hyperref makes hyperlinks in the resulting PDF.
+% If your build breaks (sometimes temporarily if a hyperlink spans a page)
+% please comment out the following usepackage line and replace
+% \usepackage{icml2023} with \usepackage[nohyperref]{icml2023} above.
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+\usepackage[accepted]{icml2024}
+
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\usepackage{dsfont}
+
+\newcommand{\bamo}{BA-2motifs}
+\newcommand{\bathree}{BA-3motifs}
+\newcommand{\benz}{Benzene}
+\newcommand{\mutag}{MUTAG}
+\newcommand{\fluo}{Fluoride-Carbonyl}
+\newcommand{\alk}{Alkane-Carbonyl}
+\newcommand{\ours}{ProxyExplainer}
+
+\theoremstyle{plain}
+
+\usepackage[textsize=tiny]{todonotes}
+
+\icmltitlerunning{Generating In-Distribution Proxy Graphs for Explaining Graph Neural Networks }
+
+\begin{document}
+
+
+
+\twocolumn[
+\icmltitle{Generating In-Distribution Proxy Graphs for Explaining Graph Neural Networks }
+\icmlsetsymbol{equal}{*}
+
+\begin{icmlauthorlist}
+\icmlauthor{Zhuomin Chen}{fiu}
+\icmlauthor{Jiaxing Zhang}{njit}
+\icmlauthor{Jingchao Ni}{uh}
+\icmlauthor{Xiaoting Li}{visa}
+\icmlauthor{Yuchen Bian}{amzs}
+\icmlauthor{Md Mezbahul Islam}{fiu}
+\icmlauthor{Ananda Mohan Mondal}{fiu}
+\icmlauthor{Hua Wei}{asu}
+\icmlauthor{Dongsheng Luo}{fiu}
+
+\end{icmlauthorlist}
+
+\icmlaffiliation{fiu}{Knight Foundation School of Computing and Information Sciences, Florida International University, Miami, USA}
+\icmlaffiliation{njit}{New Jersey Institute of Technology, Newark, USA}
+\icmlaffiliation{uh}{Department of Computer Science, University of Houston, Houston, USA}
+\icmlaffiliation{visa}{Visa Research, USA}
+\icmlaffiliation{amzs}{Amazon Search A9, USA}
+\icmlaffiliation{asu}{School of Computing and Augmented Intelligence, Arizona State University, Tempe, USA}
+
+\icmlcorrespondingauthor{Zhuomin Chen}{zchen051@fiu.edu}
+\icmlcorrespondingauthor{Dongsheng Luo}{dluo@fiu.edu}
+
+\icmlkeywords{XAI, Graph Neural Networks}
+
+\vskip 0.3in
+]
+
+\printAffiliationsAndNotice{} % otherwise use the standard text.
+
+
+\begin{abstract}
+Graph Neural Networks (GNNs) have become a building block in graph data processing, with wide applications in critical domains. The growing needs to deploy GNNs in high-stakes applications necessitate explainability for users in the decision-making processes. A popular paradigm for the explainability of GNNs is to identify explainable subgraphs by comparing their labels with the ones of original graphs. This task is challenging due to the substantial distributional shift from the original graphs in the training set to the set of explainable subgraphs, which prevents accurate prediction of labels with the subgraphs. To address it, in this paper, we propose a novel method that generates proxy graphs for explainable subgraphs that are in the distribution of training data. We introduce a parametric method that employs graph generators to produce proxy graphs. A new training objective based on information theory is designed to ensure that proxy graphs not only adhere to the distribution of training data but also preserve explanatory factors. Such generated proxy graphs can be reliably used to approximate the predictions of the labels of explainable subgraphs. Empirical evaluations across various datasets demonstrate our method achieves more accurate explanations for GNNs.
+
+\end{abstract}
+
+\input{1_introduction}
+\input{2_method}
+\input{4_relatedwork}
+\input{5_exp}
+\input{6_conclusion}
+
+\section*{Acknowledgments}
+This project was partially supported by NSF grant IIS-2331908. The views and conclusions contained in this paper are those of the authors and should not be interpreted as representing any funding agencies.
+
+
+\bibliography{reference}
+\bibliographystyle{icml2024}
+
+
+\appendix
+\onecolumn
+\input{appendix/1_algorithm}
+\input{appendix/3_setup}
+\input{appendix/4_fullexp}
+
+
+\end{document}

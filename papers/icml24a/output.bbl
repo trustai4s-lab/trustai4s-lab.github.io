@@ -1,0 +1,303 @@
+\begin{thebibliography}{42}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Amara et~al.(2023)Amara, El-Assady, and Ying]{amara2023ginx}
+Amara, K., El-Assady, M., and Ying, R.
+\newblock Ginx-eval: Towards in-distribution evaluation of graph neural network
+  explanations.
+\newblock \emph{arXiv preprint arXiv:2309.16223}, 2023.
+
+\bibitem[Bank et~al.(2023)Bank, Koenigstein, and Giryes]{bank2023autoencoders}
+Bank, D., Koenigstein, N., and Giryes, R.
+\newblock Autoencoders.
+\newblock \emph{Machine learning for data science handbook: data mining and
+  knowledge discovery handbook}, pp.\  353--374, 2023.
+
+\bibitem[Chang et~al.(2019)Chang, Creager, Goldenberg, and
+  Duvenaud]{chang2018explaining}
+Chang, C.-H., Creager, E., Goldenberg, A., and Duvenaud, D.
+\newblock Explaining image classifiers by counterfactual generation.
+\newblock In \emph{International Conference on Learning Representations}, 2019.
+\newblock URL \url{https://openreview.net/forum?id=B1MXz20cYQ}.
+
+\bibitem[Chen et~al.(2023{\natexlab{a}})Chen, Amara, Yu, and
+  Ying]{chen2023generative}
+Chen, J., Amara, K., Yu, J., and Ying, R.
+\newblock Generative explanations for graph neural network: Methods and
+  evaluations.
+\newblock \emph{arXiv preprint arXiv:2311.05764}, 2023{\natexlab{a}}.
+
+\bibitem[Chen et~al.(2023{\natexlab{b}})Chen, Wu, Gupta, and
+  Ying]{chen2023dexplainer}
+Chen, J., Wu, S., Gupta, A., and Ying, Z.
+\newblock D4explainer: In-distribution explanations of graph neural network via
+  discrete denoising diffusion.
+\newblock In \emph{Thirty-seventh Conference on Neural Information Processing
+  Systems}, 2023{\natexlab{b}}.
+\newblock URL \url{https://openreview.net/forum?id=GJtP1ZEzua}.
+
+\bibitem[Debnath et~al.(1991)Debnath, Lopez~de Compadre, Debnath, Shusterman,
+  and Hansch]{debnath1991structure}
+Debnath, A.~K., Lopez~de Compadre, R.~L., Debnath, G., Shusterman, A.~J., and
+  Hansch, C.
+\newblock Structure-activity relationship of mutagenic aromatic and
+  heteroaromatic nitro compounds. correlation with molecular orbital energies
+  and hydrophobicity.
+\newblock \emph{Journal of medicinal chemistry}, 34\penalty0 (2):\penalty0
+  786--797, 1991.
+
+\bibitem[Erd{\H{o}}s et~al.(1960)Erd{\H{o}}s, R{\'e}nyi,
+  et~al.]{erdHos1960evolution}
+Erd{\H{o}}s, P., R{\'e}nyi, A., et~al.
+\newblock On the evolution of random graphs.
+\newblock \emph{Publ. math. inst. hung. acad. sci}, 5\penalty0 (1):\penalty0
+  17--60, 1960.
+
+\bibitem[Fang et~al.(2023{\natexlab{a}})Fang, Liu, Gao, Liu, Zhang, Wang, and
+  He]{fang2023evaluating}
+Fang, J., Liu, W., Gao, Y., Liu, Z., Zhang, A., Wang, X., and He, X.
+\newblock Evaluating post-hoc explanations for graph neural networks via
+  robustness analysis.
+\newblock In \emph{Thirty-seventh Conference on Neural Information Processing
+  Systems}, 2023{\natexlab{a}}.
+
+\bibitem[Fang et~al.(2023{\natexlab{b}})Fang, Liu, Zhang, Wang, He, Wang, and
+  Chua]{fang2022regularization}
+Fang, J., Liu, W., Zhang, A., Wang, X., He, X., Wang, K., and Chua, T.-S.
+\newblock On regularization for explaining graph neural networks: An
+  information theory perspective, 2023{\natexlab{b}}.
+\newblock URL \url{https://openreview.net/forum?id=5rX7M4wa2R_}.
+
+\bibitem[Fang et~al.(2023{\natexlab{c}})Fang, Wang, Zhang, Liu, He, and
+  Chua]{fang2023cooperative}
+Fang, J., Wang, X., Zhang, A., Liu, Z., He, X., and Chua, T.-S.
+\newblock Cooperative explanations of graph neural networks.
+\newblock In \emph{Proceedings of the Sixteenth ACM International Conference on
+  Web Search and Data Mining}, pp.\  616--624, 2023{\natexlab{c}}.
+
+\bibitem[Hamilton et~al.(2017)Hamilton, Ying, and
+  Leskovec]{hamilton2017inductive}
+Hamilton, W., Ying, Z., and Leskovec, J.
+\newblock Inductive representation learning on large graphs.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~30, 2017.
+
+\bibitem[Huang et~al.(2024)Huang, Shirani, and Luo]{huang2024factorized}
+Huang, R., Shirani, F., and Luo, D.
+\newblock Factorized explainer for graph neural networks.
+\newblock In \emph{Proceedings of the AAAI conference on artificial
+  intelligence}, 2024.
+
+\bibitem[Jang et~al.(2017)Jang, Gu, and Poole]{jang2017categorical}
+Jang, E., Gu, S., and Poole, B.
+\newblock Categorical reparameterization with gumbel-softmax.
+\newblock In \emph{International Conference on Learning Representations}, 2017.
+\newblock URL \url{https://openreview.net/forum?id=rkE3y85ee}.
+
+\bibitem[Kazius et~al.(2005)Kazius, McGuire, and Bursi]{kazius2005derivation}
+Kazius, J., McGuire, R., and Bursi, R.
+\newblock Derivation and validation of toxicophores for mutagenicity
+  prediction.
+\newblock \emph{Journal of medicinal chemistry}, 48\penalty0 (1):\penalty0
+  312--320, 2005.
+
+\bibitem[Kingma \& Ba(2014)Kingma and Ba]{kingma2014adam}
+Kingma, D.~P. and Ba, J.
+\newblock Adam: A method for stochastic optimization.
+\newblock \emph{arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem[Kipf \& Welling(2017)Kipf and Welling]{kipf2017semisupervised}
+Kipf, T.~N. and Welling, M.
+\newblock Semi-supervised classification with graph convolutional networks.
+\newblock In \emph{International Conference on Learning Representations}, 2017.
+\newblock URL \url{https://openreview.net/forum?id=SJU4ayYgl}.
+
+\bibitem[Li et~al.(2023)Li, Li, Li, HAO, and Pang]{li2023dag}
+Li, W., Li, Y., Li, Z., HAO, J., and Pang, Y.
+\newblock {DAG} matters! {GF}lownets enhanced explainer for graph neural
+  networks.
+\newblock In \emph{The Eleventh International Conference on Learning
+  Representations}, 2023.
+\newblock URL \url{https://openreview.net/forum?id=jgmuRzM-sb6}.
+
+\bibitem[Li et~al.(2022)Li, Zhou, Verma, and Chen]{li2022survey}
+Li, Y., Zhou, J., Verma, S., and Chen, F.
+\newblock A survey of explainable graph neural networks: Taxonomy and
+  evaluation metrics.
+\newblock \emph{arXiv preprint arXiv:2207.12599}, 2022.
+
+\bibitem[Luo et~al.(2020)Luo, Cheng, Xu, Yu, Zong, Chen, and
+  Zhang]{luo2020parameterized}
+Luo, D., Cheng, W., Xu, D., Yu, W., Zong, B., Chen, H., and Zhang, X.
+\newblock Parameterized explainer for graph neural network.
+\newblock \emph{Advances in neural information processing systems},
+  33:\penalty0 19620--19631, 2020.
+
+\bibitem[Luo et~al.(2024)Luo, Zhao, Cheng, Xu, Han, Yu, Liu, Chen, and
+  Zhang]{luo2024towards}
+Luo, D., Zhao, T., Cheng, W., Xu, D., Han, F., Yu, W., Liu, X., Chen, H., and
+  Zhang, X.
+\newblock Towards inductive and efficient explanations for graph neural
+  networks.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 2024.
+
+\bibitem[Maddison et~al.(2017)Maddison, Mnih, and Teh]{maddison2017the}
+Maddison, C.~J., Mnih, A., and Teh, Y.~W.
+\newblock The concrete distribution: A continuous relaxation of discrete random
+  variables.
+\newblock In \emph{International Conference on Learning Representations}, 2017.
+\newblock URL \url{https://openreview.net/forum?id=S1jE5L5gl}.
+
+\bibitem[Miao et~al.(2022)Miao, Liu, and Li]{miao2022interpretable}
+Miao, S., Liu, M., and Li, P.
+\newblock Interpretable and generalizable graph learning via stochastic
+  attention mechanism.
+\newblock In \emph{International Conference on Machine Learning}, pp.\
+  15524--15543. PMLR, 2022.
+
+\bibitem[Pope et~al.(2019)Pope, Kolouri, Rostami, Martin, and
+  Hoffmann]{pope2019explainability}
+Pope, P.~E., Kolouri, S., Rostami, M., Martin, C.~E., and Hoffmann, H.
+\newblock Explainability methods for graph convolutional neural networks.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision
+  and pattern recognition}, pp.\  10772--10781, 2019.
+
+\bibitem[Qiu et~al.(2022)Qiu, Yang, Cao, Zheng, Ngai, Hsiao, and
+  Chen]{qiu2022generating}
+Qiu, L., Yang, Y., Cao, C.~C., Zheng, Y., Ngai, H., Hsiao, J., and Chen, L.
+\newblock Generating perturbation-based explanations with robustness to
+  out-of-distribution data.
+\newblock In \emph{Proceedings of the ACM Web Conference 2022}, pp.\
+  3594--3605, 2022.
+
+\bibitem[Sanchez-Lengeling et~al.(2020)Sanchez-Lengeling, Wei, Lee, Reif, Wang,
+  Qian, McCloskey, Colwell, and Wiltschko]{sanchez2020evaluating}
+Sanchez-Lengeling, B., Wei, J., Lee, B., Reif, E., Wang, P., Qian, W.,
+  McCloskey, K., Colwell, L., and Wiltschko, A.
+\newblock Evaluating attribution for graph neural networks.
+\newblock \emph{Advances in neural information processing systems},
+  33:\penalty0 5898--5910, 2020.
+
+\bibitem[Scarselli et~al.(2008)Scarselli, Gori, Tsoi, Hagenbuchner, and
+  Monfardini]{scarselli2008graph}
+Scarselli, F., Gori, M., Tsoi, A.~C., Hagenbuchner, M., and Monfardini, G.
+\newblock The graph neural network model.
+\newblock \emph{IEEE transactions on neural networks}, 20\penalty0
+  (1):\penalty0 61--80, 2008.
+
+\bibitem[Sterling \& Irwin(2015)Sterling and Irwin]{teague2015zinc}
+Sterling, T. and Irwin, J.~J.
+\newblock {ZINC} 15 - ligand discovery for everyone.
+\newblock \emph{J. Chem. Inf. Model.}, 55\penalty0 (11):\penalty0 2324--2337,
+  2015.
+
+\bibitem[Tishby et~al.(2000)Tishby, Pereira, and Bialek]{tishby2000information}
+Tishby, N., Pereira, F.~C., and Bialek, W.
+\newblock The information bottleneck method.
+\newblock \emph{arXiv preprint physics/0004057}, 2000.
+
+\bibitem[Veličković et~al.(2018)Veličković, Cucurull, Casanova, Romero,
+  Liò, and Bengio]{velivckovic2017graph}
+Veličković, P., Cucurull, G., Casanova, A., Romero, A., Liò, P., and Bengio,
+  Y.
+\newblock Graph attention networks.
+\newblock In \emph{International Conference on Learning Representations}, 2018.
+\newblock URL \url{https://openreview.net/forum?id=rJXMpikCZ}.
+
+\bibitem[Wang et~al.(2016)Wang, Cui, and Zhu]{wang2016structural}
+Wang, D., Cui, P., and Zhu, W.
+\newblock Structural deep network embedding.
+\newblock In \emph{Proceedings of the 22nd ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pp.\  1225--1234, 2016.
+
+\bibitem[Wang et~al.(2021)Wang, Wu, Zhang, He, and Chua]{wang2021towards}
+Wang, X., Wu, Y., Zhang, A., He, X., and Chua, T.-S.
+\newblock Towards multi-grained explainability for graph neural networks.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~34, pp.\  18446--18458, 2021.
+
+\bibitem[Wu et~al.(2022)Wu, Li, Yu, Bian, Zhang, Chen, Hou, Fu, Chen, Xu,
+  et~al.]{wu2022survey}
+Wu, B., Li, J., Yu, J., Bian, Y., Zhang, H., Chen, C., Hou, C., Fu, G., Chen,
+  L., Xu, T., et~al.
+\newblock A survey of trustworthy graph learning: Reliability, explainability,
+  and privacy protection.
+\newblock \emph{arXiv preprint arXiv:2205.10014}, 2022.
+
+\bibitem[Wu et~al.(2020)Wu, Ren, Li, and Leskovec]{wu2020graph}
+Wu, T., Ren, H., Li, P., and Leskovec, J.
+\newblock Graph information bottleneck.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  33:\penalty0 20437--20448, 2020.
+
+\bibitem[Xu et~al.(2019)Xu, Hu, Leskovec, and Jegelka]{xu2018powerful}
+Xu, K., Hu, W., Leskovec, J., and Jegelka, S.
+\newblock How powerful are graph neural networks?
+\newblock In \emph{International Conference on Learning Representations}, 2019.
+\newblock URL \url{https://openreview.net/forum?id=ryGs6iA5Km}.
+
+\bibitem[Ying et~al.(2019)Ying, Bourgeois, You, Zitnik, and
+  Leskovec]{ying2019gnnexplainer}
+Ying, Z., Bourgeois, D., You, J., Zitnik, M., and Leskovec, J.
+\newblock Gnnexplainer: Generating explanations for graph neural networks.
+\newblock \emph{Advances in neural information processing systems}, 32, 2019.
+
+\bibitem[Yuan et~al.(2021)Yuan, Yu, Wang, Li, and Ji]{yuan2021explainability}
+Yuan, H., Yu, H., Wang, J., Li, K., and Ji, S.
+\newblock On explainability of graph neural networks via subgraph explorations.
+\newblock In \emph{International Conference on Machine Learning}, pp.\
+  12241--12252. PMLR, 2021.
+
+\bibitem[Yuan et~al.(2022)Yuan, Yu, Gui, and Ji]{yuan2022explainability}
+Yuan, H., Yu, H., Gui, S., and Ji, S.
+\newblock Explainability in graph neural networks: A taxonomic survey.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 2022.
+
+\bibitem[Zhang et~al.(2024)Zhang, Wu, Yuan, Pan, Tong, and
+  Pei]{zhang2024trustworthy}
+Zhang, H., Wu, B., Yuan, X., Pan, S., Tong, H., and Pei, J.
+\newblock Trustworthy graph neural networks: Aspects, methods, and trends.
+\newblock \emph{Proceedings of the IEEE}, 112\penalty0 (2):\penalty0 97--139,
+  2024.
+\newblock \doi{10.1109/JPROC.2024.3369017}.
+
+\bibitem[Zhang et~al.(2023{\natexlab{a}})Zhang, Chen, Luo, Wei,
+  et~al.]{zhang2023regexplainer}
+Zhang, J., Chen, Z., Luo, D., Wei, H., et~al.
+\newblock Regexplainer: Generating explanations for graph neural networks in
+  regression tasks.
+\newblock In \emph{The Second Learning on Graphs Conference},
+  2023{\natexlab{a}}.
+
+\bibitem[Zhang et~al.(2023{\natexlab{b}})Zhang, Luo, and
+  Wei]{zhang2023mixupexplainer}
+Zhang, J., Luo, D., and Wei, H.
+\newblock Mixupexplainer: Generalizing explanations for graph neural networks
+  with data augmentation.
+\newblock In \emph{Proceedings of the 29th ACM SIGKDD Conference on Knowledge
+  Discovery and Data Mining}, pp.\  3286--3296, 2023{\natexlab{b}}.
+
+\bibitem[Zhang et~al.(2022)Zhang, Liu, Shah, and Sun]{zhang2022gstarx}
+Zhang, S., Liu, Y., Shah, N., and Sun, Y.
+\newblock Gstarx: Explaining graph neural networks with structure-aware
+  cooperative games.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~35, pp.\  19810--19823, 2022.
+
+\bibitem[Zheng et~al.(2024)Zheng, Shirani, Wang, Cheng, Chen, Chen, Wei, and
+  Luo]{zheng2024towards}
+Zheng, X., Shirani, F., Wang, T., Cheng, W., Chen, Z., Chen, H., Wei, H., and
+  Luo, D.
+\newblock Towards robust fidelity for evaluating explainability of graph neural
+  networks.
+\newblock In \emph{The Twelfth International Conference on Learning
+  Representations}, 2024.
+\newblock URL \url{https://openreview.net/forum?id=up6hr4hIQH}.
+
+\end{thebibliography}

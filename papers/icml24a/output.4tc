@@ -1,0 +1,55 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {1}Introduction}}{2}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-7r1}{}{\ignorespaces Examples of the explanation process and out-of-distribution problem. (a) is the explanation process for a graph learning model. The original graph $G$ undergoes an explanation process, resulting in an explanation graph $G'$ that highlights the most significant features and relationships; (b) shows the explanation graph $G'$ is out of distribution where the GNN is trained.}}{figure}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-3}{}{\numberline {2}Notations and Preliminary}}{6}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-4}{}{\numberline {2.1}Notations and Problem Formulation}}{6}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-5}{}{\numberline {2.2}Graph Information Bottleneck as the Objective Function}}{7}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-6}{}{\numberline {3}Graph Information Bottleneck with Proxy Graphs}}{8}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-7}{}{\numberline {3.1}Derivation of Outer Optimization}}{9}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-8}{}{\numberline {3.2}Derivation of Inner Optimization}}{10}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{1}{x1-27r2}{}{\ignorespaces  {ProxyExplainer} consists of two components: an Explainer and a Proxy Graph Generator. The Explainer takes a graph $G$ as input and produces an explainable subgraph $G'$, The proxy generator creates in-distribution proxy graphs that preserve the label information in $G'$. The proxy generator consists of a graph auto-encoder (GAE) and a variational graph auto-encoder (VGAE).}}{figure}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-10}{}{\numberline {4}The {ProxyExplainer}}}{13}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-11}{}{\numberline {4.1}The Explainer}}{13}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-12}{}{\numberline {4.2}The Proxy Graph Generator}}{13}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-13}{}{\numberline {5}Related Work}}{14}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-14}{}{\numberline {6}Experiments}}{15}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-39r1}{}{\ignorespaces Explanation accuracy in terms of AUC-ROC on edges.}}{table}\relax 
+\doTocEntry\toclot{2}{\csname a:TocLink\endcsname{1}{x1-40r2}{}{\ignorespaces Explanation accuracy in terms of AP on {MUTAG} and {BA-2motifs}.}}{table}\relax 
+\doTocEntry\toclot{3}{\csname a:TocLink\endcsname{1}{x1-41r3}{}{\ignorespaces Fidelity evaluation on {MUTAG} and {BA-2motifs}.}}{table}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-18}{}{\numberline {6.1}Experimental Settings}}{24}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-19}{}{\numberline {6.2}Quantitative Evaluation (RQ1)}}{24}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-20}{}{\numberline {6.3}Alleviating Distribution Shifts (RQ2)}}{25}\relax 
+\doTocEntry\toclot{4}{\csname a:TocLink\endcsname{1}{x1-45r4}{}{\ignorespaces MMD results between the ground truth explanations and original graphs (GT); PGExplainer explanations and original graphs (PGE); proxy graphs in our methods and original graphs (Proxy).}}{table}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-22}{}{\numberline {6.4}Ablation Studies (RQ3)}}{28}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{1}{x1-47r3}{}{\ignorespaces Ablation Studies on {MUTAG} and {BA-2motifs}.}}{figure}\relax 
+\doTocEntry\toclof{4}{\csname a:TocLink\endcsname{1}{x1-53r4}{}{\ignorespaces Visualization of explanation results from different explanation models on {Benzene}. The generated explanations are highlighted with bold orange edges.}}{figure}\relax 
+\doTocEntry\toclof{5}{\csname a:TocLink\endcsname{1}{x1-59r5}{}{\ignorespaces Visualization of explanation results from different explanation models on {BA-2motifs}. The generated explanations are highlighted with bold black edges.}}{figure}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-26}{}{\numberline {6.5}Case Studies}}{37}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-27}{}{\numberline {7}Conclusion}}{37}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-28}{Impact Statement}}{37}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-29}{Acknowledgments}}{37}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-3000}{QQ2-1-30}{References}}{37}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-31}{}{\numberline {A}Notations}}{41}\relax 
+\doTocEntry\toclot{5}{\csname a:TocLink\endcsname{1}{x1-3002r5}{}{\ignorespaces Symbols and their descriptions.}}{table}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-33}{}{\numberline {B}Algorithm}}{44}\relax 
+\doTocEntry\tocloa{1}{\csname a:TocLink\endcsname{1}{x1-3004r1}{}{\ignorespaces Algorithm of {ProxyExplainer}}}{algorithm}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-35}{}{\numberline {C}Full Experimental Setups}}{47}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-36}{}{\numberline {C.1}Datasets}}{47}\relax 
+\doTocEntry\toclot{6}{\csname a:TocLink\endcsname{1}{x1-3007r6}{}{\ignorespaces Statistics of molecule datasets for graph classification with ground-truth explanations.}}{table}\relax 
+\doTocEntry\toclot{7}{\csname a:TocLink\endcsname{1}{x1-3008r7}{}{\ignorespaces The graph-classification task performances of the GCN model}}{table}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-39}{}{\numberline {C.2}Baselines}}{53}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-40}{}{\numberline {D}Extensive Experiments}}{53}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-41}{}{\numberline {D.1}Extensive Distribution Analysis}}{54}\relax 
+\doTocEntry\toclot{8}{\csname a:TocLink\endcsname{1}{x1-3012r8}{}{\ignorespaces The Cosine similarity score and Euclidean distance between the distribution embeddings of the original graph $\textit  {\textbf  {h}}$, explanation subgraph $\textit  {\textbf  {h}}'$, and our proxy graph $\tilde  {\textit  {\textbf  {h}}}$ on different datasets.}}{table}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-43}{}{\numberline {D.2}Extensive Ablation Study}}{57}\relax 
+\doTocEntry\toclof{6}{\csname a:TocLink\endcsname{1}{x1-3020r6}{}{\ignorespaces Ablation study on all datasets.}}{figure}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-45}{}{\numberline {D.3}Extensive Experiment with GIN}}{60}\relax 
+\doTocEntry\toclof{7}{\csname a:TocLink\endcsname{1}{x1-3022r7}{}{\ignorespaces The graph-classification task performances of the GIN model.}}{figure}\relax 
+\doTocEntry\toclof{8}{\csname a:TocLink\endcsname{1}{x1-3027r8}{}{\ignorespaces Explanation accuracy in terms of AUC-ROC on edges based on GIN.}}{figure}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-48}{}{\numberline {D.4}Parameter Sensitive Analysis}}{66}\relax 
+\doTocEntry\toclof{9}{\csname a:TocLink\endcsname{1}{x1-3033r9}{}{\ignorespaces Parameter analysis of $\lambda $ on four datasets. The left side of each graph shows the explanation performance. The right side shows the Distance Analysis between $\textit  {\textbf  {h}}$ and $\tilde  {\textit  {\textbf  {h}}}$.}}{figure}\relax 
+\doTocEntry\toclof{10}{\csname a:TocLink\endcsname{1}{x1-3038r10}{}{\ignorespaces Parameter analysis of the dimension of node latent embedding. The left side of each graph shows the explanation performance and the right side displays the Cosine score and Euclidean distance between $\textit  {\textbf  {h}}$ and $\tilde  {\textit  {\textbf  {h}}}$.}}{figure}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-51}{}{\numberline {D.5}Extensive Case Study}}{73}\relax 
+\doTocEntry\toclof{11}{\csname a:TocLink\endcsname{1}{x1-3045r11}{}{\ignorespaces Visualization of explanation on {BA-2motifs}.}}{figure}\relax 
+\doTocEntry\toclof{12}{\csname a:TocLink\endcsname{1}{x1-3051r12}{}{\ignorespaces Visualization of explanation on {BA-3motifs}.}}{figure}\relax 
+\doTocEntry\toclof{13}{\csname a:TocLink\endcsname{1}{x1-3057r13}{}{\ignorespaces Visualization of explanation on {Benzene}.}}{figure}\relax 
