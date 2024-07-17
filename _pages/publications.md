@@ -29,10 +29,6 @@ Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
 Arxiv, 2024
 
-Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
-[Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/abs/2310.10064)\
-arXiv:2310.10064
-
 
 Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
 [Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)\
@@ -47,6 +43,11 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2024
+
+Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
+[Shape-aware Graph Spectral Learning](https://arxiv.org/abs/2310.10064)\
+Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)
+
 
 Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, and Suhang Wang\
 [Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling]()\
