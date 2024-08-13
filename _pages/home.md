@@ -59,8 +59,6 @@ We are grateful for funding from NSF and NOAA.
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
-</figure>
-<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/noaa.png" style="width: 110px">
 </figure>
 </div>
