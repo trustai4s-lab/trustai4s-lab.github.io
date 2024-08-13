@@ -54,11 +54,14 @@ We are the **Trustworthy AI Lab** at the [Florida International University](http
 
 <br>
 <br>
-We are grateful for funding from NSF. 
+We are grateful for funding from NSF and NOAA. 
 <br>
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_Logo.jpeg" style="width: 110px">
+</figure>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/noaa.png" style="width: 110px">
 </figure>
 </div>
 
