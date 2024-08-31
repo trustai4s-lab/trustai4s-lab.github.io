@@ -39,10 +39,14 @@ Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu
 arxiv:2403.04785
 
 
-
 ## Conference and Journal Publications
 
 ### 2024
+
+Jun-En Ding, Phan Nguyen Minh Thao,, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chenwei Wu, Chi-Te Wang, Chih-Ho Hsu, Yi-Tui Chen, Pei-Fu Chen, Feng Liu, and Fang-Ming Hung,\
+[Large Language Multimodal Models for New-Onset Type 2 Diabetes Prediction using Five-Year Cohort Electronic Health Records]()\
+Scientific Reports
+
 
 Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
 [Shape-aware Graph Spectral Learning](https://arxiv.org/abs/2310.10064)\
