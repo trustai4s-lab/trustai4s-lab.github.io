@@ -43,7 +43,7 @@ arxiv:2403.04785
 
 ### 2024
 
-Jun-En Ding, Phan Nguyen Minh Thao,, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chenwei Wu, Chi-Te Wang, Chih-Ho Hsu, Yi-Tui Chen, Pei-Fu Chen, Feng Liu, and Fang-Ming Hung,\
+Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chenwei Wu, Chi-Te Wang, Chih-Ho Hsu, Yi-Tui Chen, Pei-Fu Chen, Feng Liu, and Fang-Ming Hung\
 [Large Language Multimodal Models for New-Onset Type 2 Diabetes Prediction using Five-Year Cohort Electronic Health Records]()\
 Scientific Reports
 
