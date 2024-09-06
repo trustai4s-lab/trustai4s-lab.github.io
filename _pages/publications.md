@@ -25,11 +25,6 @@ Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
 [Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
 arxiv:2404.15354
 
-Qianying Ren, Dongsheng Luo, Dongjin Song\
-[Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
-Arxiv, 2024
-
-
 Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
 [Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)\
 arXiv:2403.06013
@@ -42,6 +37,11 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2024
+
+Qianying Ren, Dongsheng Luo, Dongjin Song\
+[Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
+ICDM, 2024
+
 
 Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chenwei Wu, Chi-Te Wang, Chih-Ho Hsu, Yi-Tui Chen, Pei-Fu Chen, Feng Liu, and Fang-Ming Hung\
 [Large Language Multimodal Models for New-Onset Type 2 Diabetes Prediction using Five-Year Cohort Electronic Health Records]()\
