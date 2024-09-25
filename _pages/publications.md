@@ -38,6 +38,11 @@ arxiv:2403.04785
 
 ### 2024
 
+Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei\
+[RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
+Proceedings of Neural Information Processing Systems (**NeurIPS** 2024)
+
+
 Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
 ICDM, 2024
@@ -114,10 +119,6 @@ NeurIPS 2023 Workshop: New Frontiers in Graph Learning, 2023
 Dongsheng Luo, Y. Bian, Y. Yan, X. Yu, J. Huan, X. Liu, Xiang Zhang\
 [Random Walk on Multiple Networks](https://arxiv.org/abs/2307.01637)\
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023
-
-Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei\
-[RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
-Learning on Graphs Conference (LOG), 2023
 
 Minghao Lin, Minghao Cheng, Dongsheng Luo, Yueqi Chen\
 [CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning]()\
