@@ -45,7 +45,7 @@ Proceedings of Neural Information Processing Systems (**NeurIPS** 2024)
 
 Qianying Ren, Dongsheng Luo, Dongjin Song\
 [Rank Supervised Contrastive Learning for Time Series Classification](https://arxiv.org/abs/2401.18057)\
-ICDM, 2024
+Proceedings of IEEE International Conference on Data Mining (ICDM), 2024
 
 
 Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chenwei Wu, Chi-Te Wang, Chih-Ho Hsu, Yi-Tui Chen, Pei-Fu Chen, Feng Liu, and Fang-Ming Hung\
