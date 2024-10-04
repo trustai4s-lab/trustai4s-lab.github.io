@@ -13,6 +13,14 @@ permalink: /publications/
 
 ## Recent Preprints
 
+Aitian Ma, Dongsheng Luo, and Mo Sha\
+[MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)\
+Arivx, 2024
+
+Aitian Ma, Dongsheng Luo, and Mo Sha\
+[MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)\
+Arivx, 2024
+
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
