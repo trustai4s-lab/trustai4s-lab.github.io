@@ -14,7 +14,7 @@ permalink: /publications/
 ## Recent Preprints
 
 Xu Zheng, Farhad Shirani, Zhuomin Chen, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
-[F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://arxiv.org/abs/2410.02970)
+[F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://arxiv.org/abs/2410.02970)\
 Arivx, 2024
 
 Aitian Ma, Dongsheng Luo, and Mo Sha\
