@@ -13,6 +13,10 @@ permalink: /publications/
 
 ## Recent Preprints
 
+Zhuomin Chen, Jingchao Ni, Hojat Allah Salehi, Xu Zheng, Esteban Schafir, Farhad Shirani, Dongsheng Luo\
+[Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
+Arivx, 2024
+
 Xu Zheng, Farhad Shirani, Zhuomin Chen, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
 [F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://arxiv.org/abs/2410.02970)\
 Arivx, 2024
