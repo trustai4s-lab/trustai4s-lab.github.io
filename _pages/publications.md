@@ -25,6 +25,14 @@ Arivx, 2024
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
 
+Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
+[Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
+arxiv:2404.04559
+
+Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
+[Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
+arxiv:2404.15354
+
 Aitian Ma, Dongsheng Luo, and Mo Sha\
 [MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)\
 Arivx, 2024
@@ -36,14 +44,6 @@ Arivx, 2024
 Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei\
 [LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation](https://arxiv.org/abs/2407.15351)\
 Arivx, 2024
-
-Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
-[Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
-arxiv:2404.04559
-
-Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
-[Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
-arxiv:2404.15354
 
 Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
 [Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)\
