@@ -56,6 +56,13 @@ arxiv:2403.04785
 
 ## Conference and Journal Publications
 
+### 2025
+
+Xufeng Liu, Dongsheng Luo, Wenhan Gao, Yi Liu\
+[3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors]()\
+Proceedings of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD** 2025)
+
+
 ### 2024
 
 Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei\
