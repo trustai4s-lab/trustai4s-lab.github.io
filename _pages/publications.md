@@ -60,14 +60,14 @@ arxiv:2403.04785
 
 Xufeng Liu, Dongsheng Luo, Wenhan Gao, Yi Liu\
 [3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors]()\
-Proceedings of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD** 2025)
+Proceedings of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**) 2025
 
 
 ### 2024
 
 Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei\
 [RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task]()\
-Proceedings of Neural Information Processing Systems (**NeurIPS** 2024)
+Proceedings of Neural Information Processing Systems (**NeurIPS**) 2024
 
 
 Qianying Ren, Dongsheng Luo, Dongjin Song\
