@@ -13,6 +13,10 @@ permalink: /publications/
 
 ## Recent Preprints
 
+Dongsheng Luo, Raju Rangaswami, Amir Rahmati, Erez Zadok\
+[GitTemporalAI: Leveraging Temporal Knowledge Graphs and LLMs for Multi-Agent Repository Intelligence]()\
+The First MARW: Multi-Agent AI in the Real World Workshop at AAAI 2025
+
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, Esteban Schafir, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 Arivx, 2024
