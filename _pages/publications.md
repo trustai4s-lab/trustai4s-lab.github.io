@@ -33,10 +33,6 @@ Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
 [Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
 arxiv:2404.04559
 
-Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
-[Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
-arxiv:2404.15354
-
 Aitian Ma, Dongsheng Luo, and Mo Sha\
 [MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)\
 Arivx, 2024
@@ -61,6 +57,10 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2025
+
+Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
+[Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
+Proceedings of The Web Conference (**WWW**) 2025
 
 Xufeng Liu, Dongsheng Luo, Wenhan Gao, Yi Liu\
 [3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors]()\
