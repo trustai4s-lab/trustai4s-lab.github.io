@@ -17,10 +17,6 @@ permalink: /publications/
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 Arivx, 2024
 
-<u>Xu Zheng</u>, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
-[F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://arxiv.org/abs/2410.02970)\
-Arivx, 2024
-
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
@@ -53,6 +49,11 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2025
+
+<u>Xu Zheng</u>, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
+[F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://openreview.net/forum?id=X0r4BN50Dv)\
+The International Conference on Learning Representations (**ICLR**), 2025
+
 
 Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
 [Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
