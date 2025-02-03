@@ -3,7 +3,7 @@ title: "TrustAI Lab - F-Fidelity"
 layout: textlay
 excerpt: "f-fidelity"
 sitemap: false
-permalink: /fidelity
+permalink: /ffidelity
 ---
 
 ## finetune fidelity ( F-Fid )  [[paper]](https://openreview.net/pdf?id=X0r4BN50Dv) [[code]](https://github.com/AslanDing/Finetune-Fidelity) 
