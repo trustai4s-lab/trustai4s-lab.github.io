@@ -6,7 +6,10 @@ sitemap: false
 permalink: /projects
 ---
 # eXplainable AI for Scientific Applications
-### 1. Robust Evaluation  [[robust Fidelity Project]](https://trustai4s-lab.github.io/fidelity.html) [[robust Fidelity ICLR24]](https://openreview.net/pdf?id=up6hr4hIQH) [[robust Fidelity TrustLOG@WWW]](https://trustai4s-lab.github.io/papers/TheWebConf24-robust%20fidelity.pdf) [[robust Fidelity Code]](https://github.com/AslanDing/Fidelity)  [[finetune Fidelity Project]](https://trustai4s-lab.github.io/ffidelity.html) [[finetune Fidelity ICLR25]](https://openreview.net/pdf?id=X0r4BN50Dv) [[finetune Fidelity Code]](https://github.com/AslanDing/Finetune-Fidelity)
+### 1. Robust Evaluation  
+<b>Graphs</b>: [[robust Fidelity Project]](https://trustai4s-lab.github.io/fidelity.html) [[robust Fidelity ICLR24]](https://openreview.net/pdf?id=up6hr4hIQH) [[robust Fidelity TrustLOG@WWW]](https://trustai4s-lab.github.io/papers/TheWebConf24-robust%20fidelity.pdf) [[robust Fidelity Code]](https://github.com/AslanDing/Fidelity)  
+<b>Time Series, Images, NLP</b>: [[finetune Fidelity Project]](https://trustai4s-lab.github.io/ffidelity.html) [[finetune Fidelity ICLR25]](https://openreview.net/pdf?id=X0r4BN50Dv) [[finetune Fidelity Code]](https://github.com/AslanDing/Finetune-Fidelity)
+
 We present a family of robust fidelity metrics for explainable graph neural networks to  alleviate the OOD(Out-of-Distribution) problem.
 
 ### 2. Architecture & Algorithm Designs
