@@ -30,7 +30,7 @@ Arivx, 2024
 Arivx, 2024
 
 Tianchun Wang, Farhad Shirani, Xu Zheng, Wei Cheng, Haifeng Chen, Dongsheng Luo, Xiang Zhang\
-[Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks](https://www.researchsquare.com/article/rs-5414037/latest)
+[Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks](https://www.researchsquare.com/article/rs-5414037/latest)\
 Preprint, 2024
 
 Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
