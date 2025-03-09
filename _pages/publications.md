@@ -61,7 +61,7 @@ Proceedings of The Web Conference (**WWW**) 2025
 
 Tianchun Wang, Dongsheng Luo, Wei Cheng, Haifeng Chen, Xiang Zhang\
 [DyExplainer: Self-explainable Dynamic Graph Neural Network with Sparse Attentions](https://arxiv.org/abs/2310.16375)\
-The ACM Transactions on Knowledge Discovery from Data (**TKDD**) 2025
+The ACM Transactions on Knowledge Discovery from Data (TKDD) 2025
 
 Trieu Vo, Cuong Nguyen,  Dongsheng Luo, Leonardo Bobadilla\
 [Lake Water Temperature Modeling Using Physics-Informed Neural Networks]()\
