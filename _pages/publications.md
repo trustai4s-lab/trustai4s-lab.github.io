@@ -13,6 +13,14 @@ permalink: /publications/
 
 ## Recent Preprints
 
+Jun-En Ding, Dongsheng Luo, Anna Zilverstand, Feng Liu\
+[NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://arxiv.org/abs/2502.18786)\
+arxiv, 2025
+
+Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, Dongsheng Luo, Haifeng Chen\
+[Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)\
+arxiv, 2025
+
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, Esteban Schafir, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 Arivx, 2024
@@ -20,6 +28,10 @@ Arivx, 2024
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
+
+Tianchun Wang, Farhad Shirani, Xu Zheng, Wei Cheng, Haifeng Chen, Dongsheng Luo, Xiang Zhang
+[Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks](https://www.researchsquare.com/article/rs-5414037/latest)
+Preprint, 2024
 
 Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
 [Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
@@ -44,6 +56,7 @@ arXiv:2403.06013
 Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chug, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chi-Te Wang, Pei-fu Chen, Feng Liu, Fang-Ming Hung\
 [Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data](https://arxiv.org/abs/2403.04785)\
 arxiv:2403.04785
+
 
 
 ## Conference and Journal Publications
