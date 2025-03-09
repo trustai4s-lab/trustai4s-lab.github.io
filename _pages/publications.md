@@ -59,6 +59,18 @@ Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
 [Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
 Proceedings of The Web Conference (**WWW**) 2025
 
+Tianchun Wang, Dongsheng Luo, Wei Cheng, Haifeng Chen, Xiang Zhang\
+[DyExplainer: Self-explainable Dynamic Graph Neural Network with Sparse Attentions](https://arxiv.org/abs/2310.16375)\
+The ACM Transactions on Knowledge Discovery from Data (**TKDD**) 2025
+
+Trieu Vo, Cuong Nguyen,  Dongsheng Luo, Leonardo Bobadilla\
+[Lake Water Temperature Modeling Using Physics-Informed Neural Networks]()\
+Tackling Climate Change with Machine Learning Workshop at ICLR 2025
+
+<u>Sipeng Chen</u>, Xu Zheng, Zeda Yin, Qiang Chen, Yuepeng Li, Jason Liu, Dongsheng Luo\
+[Adaptive Dice Loss for Extremely Imbalanced Segmentation in Wetland Delineation]()\
+Tackling Climate Change with Machine Learning Workshop at ICLR 2025
+
 Dongsheng Luo, Raju Rangaswami, Amir Rahmati, Erez Zadok\
 [GitTemporalAI: Leveraging Temporal Knowledge Graphs and LLMs for Multi-Agent Repository Intelligence]()\
 The First MARW: Multi-Agent AI in the Real World Workshop at AAAI 2025
