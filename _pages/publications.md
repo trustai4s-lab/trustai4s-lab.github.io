@@ -67,7 +67,7 @@ Trieu Vo, Cuong Nguyen,  Dongsheng Luo, Leonardo Bobadilla\
 [Lake Water Temperature Modeling Using Physics-Informed Neural Networks]()\
 Tackling Climate Change with Machine Learning Workshop at ICLR 2025
 
-<u>Sipeng Chen</u>, Xu Zheng, Zeda Yin, Qiang Chen, Yuepeng Li, Jason Liu, Dongsheng Luo\
+<u>Sipeng Chen</u>, <u>Xu Zheng</u>, Zeda Yin, Qiang Chen, Yuepeng Li, Jason Liu, Dongsheng Luo\
 [Adaptive Dice Loss for Extremely Imbalanced Segmentation in Wetland Delineation]()\
 Tackling Climate Change with Machine Learning Workshop at ICLR 2025
 
