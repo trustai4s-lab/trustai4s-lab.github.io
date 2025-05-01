@@ -17,10 +17,6 @@ Jun-En Ding, Dongsheng Luo, Anna Zilverstand, Feng Liu\
 [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://arxiv.org/abs/2502.18786)\
 arxiv, 2025
 
-Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, Dongsheng Luo, Haifeng Chen\
-[Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)\
-arxiv, 2025
-
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, Esteban Schafir, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 Arivx, 2024
@@ -62,6 +58,11 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2025
+
+Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, Dongsheng Luo, Haifeng Chen\
+[Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)\
+International Joint Conference on Artificial Intelligence, Survey Track, (**IJCAI**), 2025
+
 
 <u>Xu Zheng</u>, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
 [F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://openreview.net/forum?id=X0r4BN50Dv)\
