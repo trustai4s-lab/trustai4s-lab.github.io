@@ -63,6 +63,9 @@ Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, 
 [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)\
 International Joint Conference on Artificial Intelligence, Survey Track, (**IJCAI**), 2025
 
+Aitian Ma, Jean Tonday Rodriguez, Mo Sha, and Dongsheng Luo\
+Sensorless Air Temperature Sensing Using LoRa Link Characteristics\
+IEEE International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT), June 2025.
 
 <u>Xu Zheng</u>, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
 [F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://openreview.net/forum?id=X0r4BN50Dv)\
