@@ -13,9 +13,13 @@ permalink: /publications/
 
 ## Recent Preprints
 
-Jun-En Ding, Dongsheng Luo, Anna Zilverstand, Feng Liu\
-[NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://arxiv.org/abs/2502.18786)\
-arxiv, 2025
+<u>Xu Zheng</u>, <u>Zhuomin Chen</u>, <u>Esteban Schafir</u>, <u>Sipeng Chen</u>, Hojat Allah Salehi, Haifeng Chen, Farhad Shirani, Wei Cheng, Dongsheng Luo\
+[L2motifs : An Explainable Framework for Machine-Generated Texts Detection](https://arxiv.org/abs/2505.12507)\
+Arivx, 2025
+
+<u>Xu Zheng</u>, Chaohao Lin, <u>Sipeng Chen</u>, <u>Zhuomin Chen</u>, Jimeng Shi, Wei Cheng, Jayantha Obeysekera, Jason Liu, Dongsheng Luo\
+[SF2Bench: Evaluating Data-Driven Models for Compound Flood Forecasting in South Florida]()\
+Preprint, 2025
 
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, Esteban Schafir, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
@@ -58,6 +62,24 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2025
+
+
+Hsin-Ling Hsu, Cong-Tinh Dao, Luning Wang, Zitao Shuai, Thao Nguyen Minh Phan, Jun-En Ding, Chun-Chieh Liao, Pengfei Hu, Xiaoxue Han, Chih-Ho Hsu, Dongsheng Luo, Wen-Chih Peng, Feng Liu, Fang-Ming Hung, Chenwei Wu\
+[MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation](https://arxiv.org/abs/2503.17900)\
+The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL** 2025)
+
+ChengAo Shen, Zhengzhang Chen, Dongsheng Luo, Dongkuan Xu, Haifeng Chen, Jingchao Ni\
+[Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery](https://arxiv.org/abs/2412.13667)\
+The 63rd Annual Meeting of the Association for Computational Linguistics Findings(**ACL Findings** 2025)
+
+Jiaxing Zhang, Xiaoou Liu, Dongsheng Luo, Hua Wei.\
+Is Your Explanation Reliable: Confidence-Aware Explanation on Graph Neural Networks.\
+In the Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**’25). Aug 2025.
+
+
+Jun-En Ding, Dongsheng Luo, Anna Zilverstand, Feng Liu\
+[NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://arxiv.org/abs/2502.18786)\
+The International Conference on Machine Learning (**ICML**), 2025\
 
 Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, Dongsheng Luo, Haifeng Chen\
 [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)\
