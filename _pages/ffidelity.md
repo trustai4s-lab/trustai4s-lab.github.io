@@ -50,30 +50,30 @@ Groundtruth-free methods are measure the explanation from the aspects of robustn
 ### Fidelity and OOD Problems
 To evaluate the faithfulness of the explanation methods, the Fidelity method are introduced. The tuitive idea is if the explanation part is critical for the prediction model, the model can infer the results from explanation. On the contrary, the non-explanation part will cause the shifts of pridiction. We follow the previous paper [Robust Fidelity](https://trustai4s-lab.github.io/fidelity.html) to use Fidelity as the basic metric.
 
-<center class="metric">
+<center class="fidelity">
 <table>
   <tr>
-    <td><img src="../images/fidelity/ffid_page_3.png"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_3.png"  width = "50%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
 
 Accoriding to the metric of evaluation, we can have two kinds of fidelity, Probability-Based Fidelity and Accuracy-Based Fidelity.
 
-<center class="metric">
+<center class="Tfidelity">
 <table>
   <tr>
-    <td><img src="../images/fidelity/ffid_page_4.png"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_4.png"  width = "50%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
 
 According to Fidelity definition, there exists Out-of-Distribution(OOD) problem might cause inaccurate results because of the domain shift between original training data and explanation data. In previous paper, Remove and Retrain(ROAR) introduces retrain to avoid the OOD problem. However, it suffers the leakage of label information.
 
-<center class="metric">
+<center class="ood">
 <table>
   <tr>
-    <td><img src="../images/fidelity/ffid_page_5.png"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_5.png"  width = "50%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
