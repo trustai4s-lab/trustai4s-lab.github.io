@@ -46,7 +46,7 @@ According to Fidelity definition, there exists Out-of-Distribution(OOD) problem 
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/fidelity/OOD.JPG"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/fidelity/OOD.JPG"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
