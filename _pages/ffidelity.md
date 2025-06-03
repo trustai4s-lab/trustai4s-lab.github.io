@@ -111,12 +111,27 @@ From the results, we observe our method generate consistent results than baselin
 <table>
   <tr>
     <td><img src="../images/ffidelity/ffid_page_8.png"  width = "100%" alt="" align=center /> </td>
+</tr>
+  <tr>
     <td><img src="../images/ffidelity/ffid_page_9.png"  width = "100%" alt="" align=center /> </td>
+    </tr>
+  <tr>
     <td><img src="../images/ffidelity/ffid_page_10.png"  width = "100%" alt="" align=center /> </td>
-  </tr>
+</tr>
  </table>
 </center>
 
+We also provide case study results on real-world dataset.
+<center class="case_results">
+<table>
+  <tr>
+    <td><img src="../images/ffidelity/ffid_page_11.png"  width = "100%" alt="" align=center /> </td>
+</tr>
+  <tr>
+    <td><img src="../images/ffidelity/ffid_page_12.png"  width = "100%" alt="" align=center /> </td>
+    </tr>
+ </table>
+</center>
 
 
 ### If this work is helpful for you, please consider citing our paper.
