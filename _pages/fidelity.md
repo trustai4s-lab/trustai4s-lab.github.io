@@ -33,7 +33,7 @@ To evaluate the faithfulness of the explanation methods, the Fidelity method are
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/fidelity/ori_fidelity.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/fidelity/ori_fidelity.JPG"   style="width: 50%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -46,7 +46,7 @@ According to Fidelity definition, there exists Out-of-Distribution(OOD) problem 
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/fidelity/OOD.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/fidelity/OOD.JPG"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -60,7 +60,7 @@ To alleviate this problem, this work introduces a new metric, robust fidelity, a
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/fidelity/prob_robust_fid.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/fidelity/prob_robust_fid.JPG"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -69,7 +69,7 @@ Similarly, we can have the accuracy-based robust fidelity scores :
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/fidelity/acc_robust_fid.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/fidelity/acc_robust_fid.JPG"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
