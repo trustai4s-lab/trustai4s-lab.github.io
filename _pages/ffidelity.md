@@ -22,14 +22,17 @@ Furthermore, we show both theoretically and empirically that, given a faithful e
 
 ### Explaining Deep Learning Models
 In XAI, we first consider the attribution importance score as the explanation, indiating which part is important for deep learning model. For example, in image classification, the foreground is more important than background. For time series, the temporal pattern contains more information than random noise.
-
-<center class="explain">
+<div style="display: flex; justify-content: center;">
+<!-- <center class="GT"> -->
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_1.jpg"  width = "100%" alt="" align=center /> </td>
+    <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
+    <td> <img src="../images/ffidelity/ffid_page_1.jpg"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+<!-- </center> -->
+</div>
+
 
 
 ### Evaluation Strategy
