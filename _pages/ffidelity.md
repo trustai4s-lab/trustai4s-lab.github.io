@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ffidelity
 ---
 
-## Finetune Fidelity ( F-Fid )  [[paper]](https://openreview.net/pdf?id=X0r4BN50Dv) [[code]](https://github.com/AslanDing/Finetune-Fidelity) 
+## Finetune Fidelity ( F-Fidelity )  [[paper]](https://openreview.net/pdf?id=X0r4BN50Dv) [[code]](https://github.com/AslanDing/Finetune-Fidelity) 
 
 ### Abstract
 Recent research has developed a number of eXplainable AI (XAI) techniques, such as gradient-based approaches, input perturbation-base methods, and black-box explanation methods.
@@ -48,12 +48,12 @@ Groundtruth-free methods are measure the explanation from the aspects of robustn
 </center>
 
 ### Fidelity and OOD Problems
-To evaluate the faithfulness of the explanation methods, the Fidelity method are introduced. The tuitive idea is if the explanation part is critical for the prediction model, the model can infer the results from explanation. On the contrary, the non-explanation part will cause the shifts of pridiction. We follow the previous paper [Robust Fidelity](https://trustai4s-lab.github.io/fidelity.html) to use Fidelity as the basic metric.
+To evaluate the faithfulness of the explanation methods, the Fidelity method are introduced. The tuitive idea is if the explanation part is critical for the prediction model, the model can infer the results from explanation. On the contrary, the non-explanation part will cause the shifts of pridiction. We follow the previous paper [Robust Fidelity(R-Fidelity)](https://trustai4s-lab.github.io/fidelity.html) to use Fidelity as the basic metric.
 
 <center class="fidelity">
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_3.png"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_3.png"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
@@ -63,7 +63,7 @@ Accoriding to the metric of evaluation, we can have two kinds of fidelity, Proba
 <center class="Tfidelity">
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_4.png"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_4.png"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
@@ -73,7 +73,7 @@ According to Fidelity definition, there exists Out-of-Distribution(OOD) problem 
 <center class="ood">
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_5.png"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_5.png"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
@@ -81,10 +81,43 @@ According to Fidelity definition, there exists Out-of-Distribution(OOD) problem 
 
 
 ### Finetune Fidelity
-To be continued
+In this paper, we propose Finetune Fidelity(F-Fidelity), extend from R-Fidelity. We use two proxy strategies to approximate the Fidelity results without OOD. First, we follow  R-Fidelity to use a proxy sampling strategy to allievate the OOD problem in evaluation. Second, we introudce another finetune stage to obatin a proxy model for evaluation. Our framework can be summarized as follow:
+<center class="ffid">
+<table>
+  <tr>
+    <td><img src="../images/ffidelity/ffid_page_6.png"  width = "100%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+
+During finetune stage, we use a hyperparameter $\beta$ to generate augmentations(random delete at most $\beta$ ratio in this paper). In the evalation stage, we use another hyperparameter $\alpha$ to sample the part will be deleted according to the explanation. If the delted part is more than $\beta$, then only $\beta$ will be deleted. 
+
 
 ### Experiments
-To be continued
+We conduct experiments on three domains, image, time series, and NLP.  We first obtain initial explanations from an explainer. Then degared explanations are obatined by adding different level of random noise. A good evaluation metric should report consistent ranks aligned with the level of noise. 
+
+<center class="GT">
+<table>
+  <tr>
+    <td><img src="../images/ffidelity/ffid_page_7.png"  width = "100%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+
+
+From the results, we observe our method generate consistent results than baselines with OOD problem. Without OOD, our method also achieve comparable results.  
+
+<center class="results">
+<table>
+  <tr>
+    <td><img src="../images/ffidelity/ffid_page_8.png"  width = "100%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_9.png"  width = "100%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_10.png"  width = "100%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+
+
 
 ### If this work is helpful for you, please consider citing our paper.
 ```angular2html
