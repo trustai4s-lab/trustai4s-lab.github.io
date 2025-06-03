@@ -95,14 +95,15 @@ During finetune stage, we use a hyperparameter $\beta$ to generate augmentations
 
 ### Experiments
 We conduct experiments on three domains, image, time series, and NLP.  We first obtain initial explanations from an explainer. Then degared explanations are obatined by adding different level of random noise. A good evaluation metric should report consistent ranks aligned with the level of noise. 
-
-<center class="GT">
+<div style="display: flex; justify-content: center;">
+<!-- <center class="GT"> -->
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_7.png"  width = "100%" alt="" align=center /> </td>
+    <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td>
   </tr>
  </table>
-</center>
+<!-- </center> -->
+</div>
 
 
 From the results, we observe our method generate consistent results than baselines with OOD problem. Without OOD, our method also achieve comparable results.  
