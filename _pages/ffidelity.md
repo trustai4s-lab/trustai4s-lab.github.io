@@ -21,9 +21,35 @@ We conduct experiments on multiple data modalities, such as images, time series,
 Furthermore, we show both theoretically and empirically that, given a faithful explainer, $F-Fidelity$ metric can be used to compute the sparsity of influential input components, i.e., to extract the true explanation size. 
 
 ### Explaining Deep Learning Models
-To be continued
+In XAI, we first consider the attribution importance score as the explanation, indiating which part is important for deep learning model. For example, in image classification, the foreground is more important than background. For time series, the temporal pattern contains more information than random noise.
 
-### Evaluation and OOD Problems.
+<center class="explain">
+<table>
+  <tr>
+    <td><img src="../images/ffidelity/ffid_page_1.jpg"  width = "100%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+
+
+### Evaluation Strategy
+How to evaluate the explanation method is a challenge. The evaluation methods can be divided into two categories, groundtruth-based and groundtruth-free.  
+
+Groundtruth-based methods are using the explanation ground truth to make comparison. In an image or sentence, it is for humans to understand the context concepts and know if the explanations are correct. However, in the graph and time series domain, humans extract context concepts hard. A tactical way is to compare ground truth with explanation results, so some common metrics, such as accuracy, recall, AUC, and etc, can be easily transferred to explainable AI. In graph explanation methods, some synthetic datasets, such as ba2shapes, and ba2motifs, are introduced to evaluate the explanation methods. 
+
+Groundtruth-free methods are measure the explanation from the aspects of robustness, faithfulness, and so on. In this project, we consider the faithfulness, which measure if the explantion is faithful to the prediction.
+
+<center class="eva">
+<table>
+  <tr>
+    <td><img src="../images/ffidelity/ffid_page_2.png"  width = "100%" alt="" align=center /> </td>
+  </tr>
+ </table>
+</center>
+
+
+
+### Evaluation and OOD Problems
 To be continued
 
 ### Finetune Fidelity
