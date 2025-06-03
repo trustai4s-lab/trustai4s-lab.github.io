@@ -23,14 +23,11 @@ Furthermore, we show both theoretically and empirically that, given a faithful e
 ### Explaining Deep Learning Models
 In XAI, we first consider the attribution importance score as the explanation, indiating which part is important for deep learning model. For example, in image classification, the foreground is more important than background. For time series, the temporal pattern contains more information than random noise.
 <div style="display: flex; justify-content: center;">
-<!-- <center class="GT"> -->
 <table>
   <tr>
-    <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
     <td> <img src="../images/ffidelity/ffid_page_1.jpg"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-<!-- </center> -->
 </div>
 
 
@@ -41,14 +38,13 @@ How to evaluate the explanation method is a challenge. The evaluation methods ca
 Groundtruth-based methods are using the explanation ground truth to make comparison. In an image or sentence, it is for humans to understand the context concepts and know if the explanations are correct. However, in the graph and time series domain, humans extract context concepts hard. A tactical way is to compare ground truth with explanation results, so some common metrics, such as accuracy, recall, AUC, and etc, can be easily transferred to explainable AI. In graph explanation methods, some synthetic datasets, such as ba2shapes, and ba2motifs, are introduced to evaluate the explanation methods. 
 
 Groundtruth-free methods are measure the explanation from the aspects of robustness, faithfulness, and so on. In this project, we consider the faithfulness, which measure if the explantion is faithful to the prediction.
-
-<center class="eva">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_2.png"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_2.jpg"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+</div>
 
 ### Fidelity and OOD Problems
 To evaluate the faithfulness of the explanation methods, the Fidelity method are introduced. The tuitive idea is if the explanation part is critical for the prediction model, the model can infer the results from explanation. On the contrary, the non-explanation part will cause the shifts of pridiction. We follow the previous paper [Robust Fidelity(R-Fidelity)](https://trustai4s-lab.github.io/fidelity.html) to use Fidelity as the basic metric.
