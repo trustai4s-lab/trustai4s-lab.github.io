@@ -41,53 +41,64 @@ Groundtruth-free methods are measure the explanation from the aspects of robustn
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/ffidelity/ffid_page_2.jpg"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_2.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
 
 ### Fidelity and OOD Problems
 To evaluate the faithfulness of the explanation methods, the Fidelity method are introduced. The tuitive idea is if the explanation part is critical for the prediction model, the model can infer the results from explanation. On the contrary, the non-explanation part will cause the shifts of pridiction. We follow the previous paper [Robust Fidelity(R-Fidelity)](https://trustai4s-lab.github.io/fidelity.html) to use Fidelity as the basic metric.
-
-<center class="fidelity">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_3.png"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_3.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+</div>
 
 Accoriding to the metric of evaluation, we can have two kinds of fidelity, Probability-Based Fidelity and Accuracy-Based Fidelity.
-
-<center class="Tfidelity">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_4.png"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_4.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+</div>
 
 According to Fidelity definition, there exists Out-of-Distribution(OOD) problem might cause inaccurate results because of the domain shift between original training data and explanation data. In previous paper, Remove and Retrain(ROAR) introduces retrain to avoid the OOD problem. However, it suffers the leakage of label information.
-
-<center class="ood">
+<div style="display: flex; justify-content: center;">
+<table>
+  <tr>
+    <td> <img src="../images/ffidelity/ffid_page_5.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+  </tr>
+ </table>
+</div>
+<!-- <center class="ood">
 <table>
   <tr>
     <td><img src="../images/ffidelity/ffid_page_5.png"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
-</center>
+</center> -->
 
 
 
 ### Finetune Fidelity
 In this paper, we propose Finetune Fidelity(F-Fidelity), extend from R-Fidelity. We use two proxy strategies to approximate the Fidelity results without OOD. First, we follow  R-Fidelity to use a proxy sampling strategy to allievate the OOD problem in evaluation. Second, we introudce another finetune stage to obatin a proxy model for evaluation. Our framework can be summarized as follow:
-<center class="ffid">
+<div style="display: flex; justify-content: center;">
+<table>
+  <tr>
+    <td> <img src="../images/ffidelity/ffid_page_6.jpg"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+  </tr>
+ </table>
+</div>
+<!-- <center class="ffid">
 <table>
   <tr>
     <td><img src="../images/ffidelity/ffid_page_6.png"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
-</center>
+</center> -->
 
 During finetune stage, we use a hyperparameter $\beta$ to generate augmentations(random delete at most $\beta$ ratio in this paper). In the evalation stage, we use another hyperparameter $\alpha$ to sample the part will be deleted according to the explanation. If the delted part is more than $\beta$, then only $\beta$ will be deleted. 
 
