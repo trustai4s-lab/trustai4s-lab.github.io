@@ -135,7 +135,7 @@ From the results, we observe our method generate consistent results than baselin
 <!-- </center> -->
 </div>
 
-We also provide case study results on real-world dataset.
+We provide a case study results to make comparison. Under different sparsity, F-Fidelity achieves consistent ranks than baselines.
 <div style="display: flex; justify-content: center;">
 <!-- <center class="GT"> -->
 <table>
@@ -143,12 +143,21 @@ We also provide case study results on real-world dataset.
     <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
     <td> <img src="../images/ffidelity/ffid_page_11.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
     </tr>
+ </table>
+<!-- </center> -->
+</div>
+
+We also provide case study results on real world dataset. As the results show, the results of F-Fidelity are aligned with intuitive visualization. We report a stastic results over 500 images demonstrating the effectiveness of F-Fidelity.
+<div style="display: flex; justify-content: center;">
+<!-- <center class="GT"> -->
+<table>
   <tr>
     <td> <img src="../images/ffidelity/ffid_page_12.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 <!-- </center> -->
 </div>
+
 
 
 ### If this work is helpful for you, please consider citing our paper.
