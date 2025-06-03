@@ -99,7 +99,8 @@ We conduct experiments on three domains, image, time series, and NLP.  We first 
 <!-- <center class="GT"> -->
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td>
+    <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
+    <td> <img src="../images/ffidelity/ffid_page_7.png"   style="width: 50%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 <!-- </center> -->
