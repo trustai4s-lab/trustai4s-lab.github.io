@@ -6,7 +6,7 @@ sitemap: false
 permalink: /fidelity
 ---
 
-## Robust Fidelity ( Fidα )  [[paper]](https://openreview.net/pdf?id=up6hr4hIQH) [[code]](https://github.com/AslanDing/Fidelity) 
+## Robust Fidelity ( R-Fidelity )  [[paper]](https://openreview.net/pdf?id=up6hr4hIQH) [[code]](https://github.com/AslanDing/Fidelity) 
 
 ### Abstract
 This paper studies this foundational challenge, spotlighting the inherent limitations of prevailing fidelity metrics, including  $Fid_+$, $Fid_−$, and $Fid_\Delta$. Specifically, a formal, information-theoretic definition of explainability is introduced and it is shown that existing metrics often fail to align with this definition across various statistical scenarios. The reason is due to potential distribution shifts when subgraphs are removed in computing these fidelity measures. 
