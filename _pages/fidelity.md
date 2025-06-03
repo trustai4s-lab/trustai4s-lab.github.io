@@ -30,74 +30,71 @@ How to evaluate the explanation method is a challenge due to some problems such 
 
 ### Fidelity and OOD Problems.
 To evaluate the faithfulness of the explanation methods, the Fidelity method are introduced. The tuitive idea is if the explanation part is critical for the prediction model, the model can infer the results from explanation. On the contrary, the non-explanation part will cause the shifts of pridiction. Based on this idea, we can have $Fid+, Fid-, Fid_\Delta$. Formally, we have：
-
-<center class="metric">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/fidelity/ori_fidelity.JPG"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/fidelity/ori_fidelity.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+</div>
 
 <!--
 Fidelity provides another method to evaluate the faithfulness of the explanation, which can be applied to real-world datasets. 
 -->
 
 According to Fidelity definition, there exists Out-of-Distribution(OOD) problem might cause inaccurate results because of the domain shift between original training data and explanation data. In some concurrent work, they also mentionedt this problem, such as [OAR](https://proceedings.neurips.cc/paper_files/paper/2023/file/e55c2f3fdde519014c879aa3554414c0-Paper-Conference.pdf),[GInx-eval](https://arxiv.org/abs/2309.16223). We select one figure from [(Zhuomin Chen et. al.)](https://arxiv.org/pdf/2402.02036.pdf) to illustrate this phenomena.
-<center class="ood">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/fidelity/OOD.JPG"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/fidelity/OOD.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+</div>
+
 
 
 ### Robust Fidelity
 
 
 To alleviate this problem, this work introduces a new metric, robust fidelity, as a new faithfulness metric. In this method, we randomly delete edges from the explanation/non-explanation subgraph by using a hyperparameter $\alpha$. Random sampling technology is used to achieve that. Formally, we have the probability-based robust fidelity scores ： 
-<center class="robust_fid">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/fidelity/prob_robust_fid.JPG"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/fidelity/prob_robust_fid.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+</div>
+
 Similarly, we can have the accuracy-based robust fidelity scores :
-<center class="robust_fid">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/fidelity/acc_robust_fid.JPG"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/fidelity/acc_robust_fid.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
+</div>
 
 The algorithm of this method can be summarized as follows:
-<center class="algorithm">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/fidelity/algorithm1.JPG"  width = "100%" alt="" align=center /> </td>
-    <td><img src="../images/fidelity/algorithm2.JPG"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/fidelity/algorithm1.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/fidelity/algorithm2.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-</center>
-
+</div>
 We also use a figure to illustrate how our method works.
-
-<center class="ba2">
+<div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td><img src="../images/fidelity/fid_alpha.jpg"  width = "100%" alt="" align=center /> </td>
+    <td> <img src="../images/fidelity/fid_alpha.JPG"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
-
-</center>
+</div>
 
 
 ### Extend to Image, NLP, and Time Series
-
-To be continue
+We provide the furture word in [Finetune Fidelity(F-Fidelity)](https://trustai4s-lab.github.io/ffidelity.html).
 
 
 ###  Graph Experiments
