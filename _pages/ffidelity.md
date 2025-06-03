@@ -88,7 +88,7 @@ In this paper, we propose Finetune Fidelity(F-Fidelity), extend from R-Fidelity.
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/ffidelity/ffid_page_6.png"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_6.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -110,7 +110,7 @@ We conduct experiments on three domains, image, time series, and NLP.  We first 
 <table>
   <tr>
     <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
-    <td> <img src="../images/ffidelity/ffid_page_7.png"   style="width: 50%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_7.png"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 <!-- </center> -->
@@ -118,32 +118,31 @@ We conduct experiments on three domains, image, time series, and NLP.  We first 
 
 
 From the results, we observe our method generate consistent results than baselines with OOD problem. Without OOD, our method also achieve comparable results.  
-
-<center class="results">
+<div style="display: flex; justify-content: center;">
+<!-- <center class="GT"> -->
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_8.png"  width = "100%" alt="" align=center /> </td>
-</tr>
-  <tr>
-    <td><img src="../images/ffidelity/ffid_page_9.png"  width = "100%" alt="" align=center /> </td>
-    </tr>
-  <tr>
-    <td><img src="../images/ffidelity/ffid_page_10.png"  width = "100%" alt="" align=center /> </td>
-</tr>
+    <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
+    <td> <img src="../images/ffidelity/ffid_page_8.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_9.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_10.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+  </tr>
  </table>
-</center>
+<!-- </center> -->
+</div>
 
 We also provide case study results on real-world dataset.
-<center class="case_results">
+<div style="display: flex; justify-content: center;">
+<!-- <center class="GT"> -->
 <table>
   <tr>
-    <td><img src="../images/ffidelity/ffid_page_11.png"  width = "100%" alt="" align=center /> </td>
-</tr>
-  <tr>
-    <td><img src="../images/ffidelity/ffid_page_12.png"  width = "100%" alt="" align=center /> </td>
-    </tr>
+    <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
+    <td> <img src="../images/ffidelity/ffid_page_11.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_12.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+  </tr>
  </table>
-</center>
+<!-- </center> -->
+</div>
 
 
 ### If this work is helpful for you, please consider citing our paper.
