@@ -41,7 +41,7 @@ Groundtruth-free methods are measure the explanation from the aspects of robustn
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/ffidelity/ffid_page_2.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_2.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -51,7 +51,7 @@ To evaluate the faithfulness of the explanation methods, the Fidelity method are
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/ffidelity/ffid_page_3.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_3.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -60,7 +60,7 @@ Accoriding to the metric of evaluation, we can have two kinds of fidelity, Proba
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/ffidelity/ffid_page_4.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_4.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -69,7 +69,7 @@ According to Fidelity definition, there exists Out-of-Distribution(OOD) problem 
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/ffidelity/ffid_page_5.jpg"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_5.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
@@ -88,7 +88,7 @@ In this paper, we propose Finetune Fidelity(F-Fidelity), extend from R-Fidelity.
 <div style="display: flex; justify-content: center;">
 <table>
   <tr>
-    <td> <img src="../images/ffidelity/ffid_page_6.jpg"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    <td> <img src="../images/ffidelity/ffid_page_6.png"   style="width: 90%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
 </div>
