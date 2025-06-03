@@ -124,7 +124,11 @@ From the results, we observe our method generate consistent results than baselin
   <tr>
     <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
     <td> <img src="../images/ffidelity/ffid_page_8.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+</tr>
+  <tr>
     <td> <img src="../images/ffidelity/ffid_page_9.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    </tr>
+  <tr>
     <td> <img src="../images/ffidelity/ffid_page_10.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
@@ -138,6 +142,8 @@ We also provide case study results on real-world dataset.
   <tr>
     <!-- <td><img src="../images/ffidelity/ffid_page_7.png"  width = "50%" alt="" align=center /> </td> -->
     <td> <img src="../images/ffidelity/ffid_page_11.png"   style="width: 80%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
+    </tr>
+  <tr>
     <td> <img src="../images/ffidelity/ffid_page_12.png"   style="width: 70%; height: auto; display: block; margin: 0 auto;" alt="" /> </td>
   </tr>
  </table>
