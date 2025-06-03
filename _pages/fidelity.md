@@ -34,7 +34,7 @@ To evaluate the faithfulness of the explanation methods, the Fidelity method are
 <center class="metric">
 <table>
   <tr>
-    <td><img src="../images/fidelity/ori_fidelity.JPG"  width = "50%" alt="" align=center /> </td>
+    <td><img src="../images/fidelity/ori_fidelity.JPG"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
@@ -47,7 +47,7 @@ According to Fidelity definition, there exists Out-of-Distribution(OOD) problem 
 <center class="ood">
 <table>
   <tr>
-    <td><img src="../images/fidelity/OOD.JPG"  width = "80%" alt="" align=center /> </td>
+    <td><img src="../images/fidelity/OOD.JPG"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
@@ -60,7 +60,7 @@ To alleviate this problem, this work introduces a new metric, robust fidelity, a
 <center class="robust_fid">
 <table>
   <tr>
-    <td><img src="../images/fidelity/prob_robust_fid.JPG"  width = "70%" alt="" align=center /> </td>
+    <td><img src="../images/fidelity/prob_robust_fid.JPG"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
@@ -68,7 +68,7 @@ Similarly, we can have the accuracy-based robust fidelity scores :
 <center class="robust_fid">
 <table>
   <tr>
-    <td><img src="../images/fidelity/acc_robust_fid.JPG"  width = "70%" alt="" align=center /> </td>
+    <td><img src="../images/fidelity/acc_robust_fid.JPG"  width = "100%" alt="" align=center /> </td>
   </tr>
  </table>
 </center>
