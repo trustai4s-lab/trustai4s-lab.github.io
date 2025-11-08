@@ -65,7 +65,7 @@ arxiv:2403.04785
 ### 2026
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, <u>Esteban Schafir</u>, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
-The AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
+The AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
 ### 2025
 
