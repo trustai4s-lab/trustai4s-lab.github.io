@@ -21,10 +21,6 @@ Arivx, 2025
 [SF2Bench: Evaluating Data-Driven Models for Compound Flood Forecasting in South Florida]()\
 Preprint, 2025
 
-<u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, Esteban Schafir, Farhad Shirani, Dongsheng Luo\
-[Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
-Arivx, 2024
-
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
@@ -65,6 +61,12 @@ arxiv:2403.04785
 
 
 ## Conference and Journal Publications
+
+### 2026
+<u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, <u>Esteban Schafir</u>, Farhad Shirani, Dongsheng Luo\
+[Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
+AAAI, 2026
+
 
 ### 2025
 
