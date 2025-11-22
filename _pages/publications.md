@@ -13,7 +13,7 @@ permalink: /publications/
 
 ## Recent Preprints
 
-<u>Xu Zheng</u>, <u>Zhuomin Chen</u>, <u>Esteban Schafir</u>, <u>Sipeng Chen</u>, Hojat Allah Salehi, Haifeng Chen, Farhad Shirani, Wei Cheng, Dongsheng Luo\
+<u>Xu Zheng</u>, <u>Zhuomin Chen</u>, <u>Esteban Schafir</u>, Sipeng Chen, Hojat Allah Salehi, Haifeng Chen, Farhad Shirani, Wei Cheng, Dongsheng Luo\
 [L2motifs : An Explainable Framework for Machine-Generated Texts Detection](https://arxiv.org/abs/2505.12507)\
 Arivx, 2025
 
@@ -24,7 +24,6 @@ Preprint, 2025
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
-
 
 Marian Temprana Alonso, Dongsheng Luo, Farhad Shirani\
 [Deep Reinforcement Learning for MIMO Communication with Low-Resolution ADCs](https://arxiv.org/abs/2504.18957)\
@@ -40,10 +39,6 @@ arxiv:2404.04559
 
 Aitian Ma, Dongsheng Luo, and Mo Sha\
 [MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)\
-Arivx, 2024
-
-Aitian Ma, Dongsheng Luo, and Mo Sha\
-[MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)\
 Arivx, 2024
 
 Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei\
@@ -66,6 +61,15 @@ arxiv:2403.04785
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, <u>Esteban Schafir</u>, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
+Aitian Ma, Dongsheng Luo, and Mo Sha\
+[MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)\
+ACM Symposium On Applied Computing (SAC), 2026
+
+Cong-Tinh Dao, Nguyen Minh Thao Phan, Jun-En Ding, Chenwei Wu, David Restrepo, Dongsheng Luo, Fanyi Zhao, Chun-Chieh Liao, Wen-Chih Peng, Chi-Te Wang, Pei-Fu Chen, Ling Chen, Xinglong Ju, Feng Liu, Fang-Ming Hung\
+[CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction](https://arxiv.org/abs/2511.11423)\
+Expert Systems with Applications
+
 
 ### 2025
 
