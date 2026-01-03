@@ -54,8 +54,6 @@ Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu
 arxiv:2403.04785
 
 
-, Ph.D. for her invaluable mentorship, and to authors  and Dongsheng Luo f
-
 ## Conference and Journal Publications
 
 ### 2026
