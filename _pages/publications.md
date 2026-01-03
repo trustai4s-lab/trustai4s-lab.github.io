@@ -54,6 +54,7 @@ Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu
 arxiv:2403.04785
 
 
+, Ph.D. for her invaluable mentorship, and to authors  and Dongsheng Luo f
 
 ## Conference and Journal Publications
 
@@ -61,6 +62,15 @@ arxiv:2403.04785
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, <u>Esteban Schafir</u>, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
+Shouwei Gao, Xu Zheng, Dongsheng Luo, Sheng Di, Wenqian Dong\
+[LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation]()\
+The 40th IEEE International Parallel & Distributed Processing Symposium(IPDPS), 2026
+
+Mayur Akewar,Dongsheng Luo, Sandeep Madireddy,  Janki Bhimani\
+[KORAL: Knowledge Graph Guided LLM Reasoning for SSD Operational Analysis]()\
+The 40th IEEE International Parallel & Distributed Processing Symposium(IPDPS), 2026
+
 
 Aitian Ma, Dongsheng Luo, and Mo Sha\
 [MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)\
