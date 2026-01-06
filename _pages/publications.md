@@ -65,7 +65,7 @@ Shouwei Gao, Xu Zheng, Dongsheng Luo, Sheng Di, Wenqian Dong\
 [LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation]()\
 The 40th IEEE International Parallel & Distributed Processing Symposium(IPDPS), 2026
 
-Mayur Akewar,Dongsheng Luo, Sandeep Madireddy,  Janki Bhimani\
+Mayur Akewar, Sandeep Madireddy, Dongsheng Luo,  Janki Bhimani\
 [KORAL: Knowledge Graph Guided LLM Reasoning for SSD Operational Analysis]()\
 The 40th IEEE International Parallel & Distributed Processing Symposium(IPDPS), 2026
 
