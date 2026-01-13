@@ -13,8 +13,8 @@ permalink: /publications/
 
 ## Recent Preprints
 
-<u>Zhuomin Chen</u>, Gabriel Lucchesi, Qingkai Dong, <u>Xu Zheng</u>, Dongjin Song, Qingsong Wen, Wei Cheng, Jingchao Ni, Dongsheng Luo\\
-[From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)\\
+<u>Zhuomin Chen</u>, Gabriel Lucchesi, Qingkai Dong, <u>Xu Zheng</u>, Dongjin Song, Qingsong Wen, Wei Cheng, Jingchao Ni, Dongsheng Luo\
+[From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)\
 Preprint, 2026
 
 
