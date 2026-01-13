@@ -13,6 +13,11 @@ permalink: /publications/
 
 ## Recent Preprints
 
+<u>Zhuomin Chen</u>, Gabriel Lucchesi, Qingkai Dong, <u>Xu Zheng</u>, Dongjin Song, Qingsong Wen, Wei Cheng, Jingchao Ni, Dongsheng Luo
+[From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)
+Preprint, 2026
+
+
 <u>Xu Zheng</u>, <u>Zhuomin Chen</u>, <u>Esteban Schafir</u>, Sipeng Chen, Hojat Allah Salehi, Haifeng Chen, Farhad Shirani, Wei Cheng, Dongsheng Luo\
 [L2motifs : An Explainable Framework for Machine-Generated Texts Detection](https://arxiv.org/abs/2505.12507)\
 Arivx, 2025
@@ -61,7 +66,7 @@ arxiv:2403.04785
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
-Shouwei Gao, Xu Zheng, Dongsheng Luo, Sheng Di, Wenqian Dong\
+Shouwei Gao, <u>Xu Zheng</u>, Dongsheng Luo, Sheng Di, Wenqian Dong\
 [LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation]()\
 The 40th IEEE International Parallel & Distributed Processing Symposium(IPDPS), 2026
 
