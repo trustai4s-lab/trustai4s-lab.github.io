@@ -62,6 +62,10 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2026
+<u>Zhuomin Chen</u>, Hojat Allah Salehi, <u>Esteban Schafir</u>, <u>Xu Zheng</u>, Jiaxing Zhang, Hua Wei, Jingchao Ni,  Farhad Shirani, Dongsheng Luo\
+[Addressing Structural Distribution Shift in Explanations for Graph Neural Networks]()\
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026
+
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, <u>Esteban Schafir</u>, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
@@ -74,10 +78,17 @@ Mayur Akewar, Sandeep Madireddy, Dongsheng Luo,  Janki Bhimani\
 [KORAL: Knowledge Graph Guided LLM Reasoning for SSD Operational Analysis]()\
 The 40th IEEE International Parallel & Distributed Processing Symposium(IPDPS), 2026
 
-
 Aitian Ma, Dongsheng Luo, and Mo Sha\
 [MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)\
 ACM Symposium On Applied Computing (SAC), 2026
+
+Aitian Ma, Jean Marco Cruz, Dongshegn Luo, and Mo Sha\
+[Enabling Large Language Model based Data Synthesis in Wireless Mesh Network Configuration for Internet of Things]()\
+IEEE Computers, Software, and Applications Conference (COMPSAC), 2026
+
+Aitian Ma, Dongshegn Luo, Ali Maatouk, Rex Ying, and Mo Sha\
+[Configuring Industrial Wireless Mesh Network via Dual-Mind Reasoning]()\
+IEEE International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT),  2026.
 
 Cong-Tinh Dao, Nguyen Minh Thao Phan, Jun-En Ding, Chenwei Wu, David Restrepo, Dongsheng Luo, Fanyi Zhao, Chun-Chieh Liao, Wen-Chih Peng, Chi-Te Wang, Pei-Fu Chen, Ling Chen, Xinglong Ju, Feng Liu, Fang-Ming Hung\
 [CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction](https://arxiv.org/abs/2511.11423)\
@@ -86,6 +97,21 @@ Expert Systems with Applications
 
 ### 2025
 
+<u>Xu Zheng</u>, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
+[F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://openreview.net/forum?id=X0r4BN50Dv)\
+The International Conference on Learning Representations (**ICLR**), 2025
+
+Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
+[Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
+Proceedings of The Web Conference (**WWW**) 2025
+
+Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo, Hua Wei\
+[Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape]()\
+ACM SIGKDD Explorations Newsletter, 2025
+
+Md Akib Zabed Khan, Dongsheng Luo, Agoritsa Polyzou\
+[Reasoning with Knowledge Graphs for Trustworthy Course Recommendation]()
+IEEE 12th International Conference on Data Science and Advanced Analytics (DSAA), 2025
 
 Hsin-Ling Hsu, Cong-Tinh Dao, Luning Wang, Zitao Shuai, Thao Nguyen Minh Phan, Jun-En Ding, Chun-Chieh Liao, Pengfei Hu, Xiaoxue Han, Chih-Ho Hsu, Dongsheng Luo, Wen-Chih Peng, Feng Liu, Fang-Ming Hung, Chenwei Wu\
 [MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation](https://arxiv.org/abs/2503.17900)\
@@ -99,7 +125,6 @@ Jiaxing Zhang, Xiaoou Liu, Dongsheng Luo, Hua Wei.\
 Is Your Explanation Reliable: Confidence-Aware Explanation on Graph Neural Networks.\
 In the Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**’25). Aug 2025.
 
-
 Jun-En Ding, Dongsheng Luo, Anna Zilverstand, Feng Liu\
 [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://arxiv.org/abs/2502.18786)\
 The International Conference on Machine Learning (**ICML**), 2025\
@@ -111,15 +136,6 @@ International Joint Conference on Artificial Intelligence, Survey Track, (**IJCA
 Aitian Ma, Jean Tonday Rodriguez, Mo Sha, and Dongsheng Luo\
 Sensorless Air Temperature Sensing Using LoRa Link Characteristics\
 IEEE International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT), June 2025.
-
-<u>Xu Zheng</u>, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo\
-[F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI](https://openreview.net/forum?id=X0r4BN50Dv)\
-The International Conference on Learning Representations (**ICLR**), 2025
-
-
-Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
-[Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)\
-Proceedings of The Web Conference (**WWW**) 2025
 
 Tianchun Wang, Dongsheng Luo, Wei Cheng, Haifeng Chen, Xiang Zhang\
 [DyExplainer: Self-explainable Dynamic Graph Neural Network with Sparse Attentions](https://arxiv.org/abs/2310.16375)\
