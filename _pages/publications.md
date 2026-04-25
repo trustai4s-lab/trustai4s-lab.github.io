@@ -110,7 +110,7 @@ Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo, Hua Wei\
 ACM SIGKDD Explorations Newsletter, 2025
 
 Md Akib Zabed Khan, Dongsheng Luo, Agoritsa Polyzou\
-[Reasoning with Knowledge Graphs for Trustworthy Course Recommendation]()
+[Reasoning with Knowledge Graphs for Trustworthy Course Recommendation]()\
 IEEE 12th International Conference on Data Science and Advanced Analytics (DSAA), 2025
 
 Hsin-Ling Hsu, Cong-Tinh Dao, Luning Wang, Zitao Shuai, Thao Nguyen Minh Phan, Jun-En Ding, Chun-Chieh Liao, Pengfei Hu, Xiaoxue Han, Chih-Ho Hsu, Dongsheng Luo, Wen-Chih Peng, Feng Liu, Fang-Ming Hung, Chenwei Wu\
@@ -127,7 +127,7 @@ In the Proceedings of the 31st ACM SIGKDD International Conference on Knowledge 
 
 Jun-En Ding, Dongsheng Luo, Anna Zilverstand, Feng Liu\
 [NeuroTree: Hierarchical Functional Brain Pathway Decoding for Mental Health Disorders](https://arxiv.org/abs/2502.18786)\
-The International Conference on Machine Learning (**ICML**), 2025\
+The International Conference on Machine Learning (**ICML**), 2025
 
 Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, Dongsheng Luo, Haifeng Chen\
 [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)\
@@ -152,7 +152,6 @@ Tackling Climate Change with Machine Learning Workshop at ICLR 2025
 Dongsheng Luo, Raju Rangaswami, Amir Rahmati, Erez Zadok\
 [GitTemporalAI: Leveraging Temporal Knowledge Graphs and LLMs for Multi-Agent Repository Intelligence]()\
 The First MARW: Multi-Agent AI in the Real World Workshop at AAAI 2025
-
 
 Xufeng Liu, Dongsheng Luo, Wenhan Gao, Yi Liu\
 [3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors]()\
