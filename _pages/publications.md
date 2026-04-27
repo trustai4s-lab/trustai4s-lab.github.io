@@ -35,11 +35,11 @@ Preprint, 2025
 Arivx, 2024
 
 ChengAo Shen, Ziming Zhao, Hanghang Tong, Dongjin Song, Dongsheng Luo, Qingsong Wen, Jingchao Ni\
-SVTime: Small Time Series Forecasting Models Informed by "Physics" of Large Vision Model Forecasters\
+[SVTime: Small Time Series Forecasting Models Informed by "Physics" of Large Vision Model Forecasters](https://arxiv.org/abs/2510.09780)\
 ArXiv:2510.09780, 2025
 
 Xinnan Dai, Xianxuan Long, Chung-Hsiang Lo, Kai Guo, Shenglai Zeng, Dongsheng Luo, Jiliang Tang\
-GraphGhost: Tracing Structures Behind Large Language Models\
+[GraphGhost: Tracing Structures Behind Large Language Models](https://arxiv.org/abs/2510.08613v2)\
 Arxiv, 25
 
 Marian Temprana Alonso, Dongsheng Luo, Farhad Shirani\
