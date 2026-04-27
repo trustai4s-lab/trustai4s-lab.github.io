@@ -18,6 +18,10 @@ permalink: /publications/
 Preprint, 2026
 
 
+<u>Xu Zheng</u>, <u>Zhuomin Chen</u>, Chaohao Lin, Hua Wei, Haifeng Chen, Wei Cheng, Dongsheng Luo\
+Trajectory Graph Copilot: Pre-Action Error Diagnosis in LLM Agents\
+Preprint, 2025
+
 <u>Xu Zheng</u>, <u>Zhuomin Chen</u>, <u>Esteban Schafir</u>, Sipeng Chen, Hojat Allah Salehi, Haifeng Chen, Farhad Shirani, Wei Cheng, Dongsheng Luo\
 [L2motifs : An Explainable Framework for Machine-Generated Texts Detection](https://arxiv.org/abs/2505.12507)\
 Arivx, 2025
@@ -30,29 +34,21 @@ Preprint, 2025
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
 
+ChengAo Shen, Ziming Zhao, Hanghang Tong, Dongjin Song, Dongsheng Luo, Qingsong Wen, Jingchao Ni\
+SVTime: Small Time Series Forecasting Models Informed by "Physics" of Large Vision Model Forecasters\
+ArXiv:2510.09780, 2025
+
+Xinnan Dai, Xianxuan Long, Chung-Hsiang Lo, Kai Guo, Shenglai Zeng, Dongsheng Luo, Jiliang Tang\
+GraphGhost: Tracing Structures Behind Large Language Models\
+Arxiv, 25
+
 Marian Temprana Alonso, Dongsheng Luo, Farhad Shirani\
 [Deep Reinforcement Learning for MIMO Communication with Low-Resolution ADCs](https://arxiv.org/abs/2504.18957)\
 Arxiv, 25
 
-Tianchun Wang, Farhad Shirani, Xu Zheng, Wei Cheng, Haifeng Chen, Dongsheng Luo, Xiang Zhang\
-[Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks](https://www.researchsquare.com/article/rs-5414037/latest)\
-Preprint, 2024
-
 Guoming Li, Jian Yang, Shangsong Liang, and Dongsheng Luo\
 [Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)\
 arxiv:2404.04559
-
-Aitian Ma, Dongsheng Luo, and Mo Sha\
-[MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)\
-Arivx, 2024
-
-Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei\
-[LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation](https://arxiv.org/abs/2407.15351)\
-Arivx, 2024
-
-Tiejin Chen, Wenwang Huang, Linsey Pang, Dongsheng Luo and Hua Wei\
-[Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013)\
-arXiv:2403.06013
 
 Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chug, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chi-Te Wang, Pei-fu Chen, Feng Liu, Fang-Ming Hung\
 [Large Language Multimodal Models for 5-Year Chronic Disease Cohort Prediction Using EHR Data](https://arxiv.org/abs/2403.04785)\
@@ -69,6 +65,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, <u>Esteban Schafir</u>, Farhad Shirani, Dongsheng Luo\
 [Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning](https://arxiv.org/abs/2410.12657)\
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
+Aitian Ma, Dongsheng Luo, and Mo Sha\
+[MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)\
+The International Conference on Learning Representations (**ICLR**), 2026
 
 Shouwei Gao, <u>Xu Zheng</u>, Dongsheng Luo, Sheng Di, Wenqian Dong\
 [LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation]()\
@@ -133,6 +133,11 @@ Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, 
 [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869)\
 International Joint Conference on Artificial Intelligence, Survey Track, (**IJCAI**), 2025
 
+Xufeng Liu, Dongsheng Luo, Wenhan Gao, Yi Liu\
+[3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors]()\
+Proceedings of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**) 2025
+
+
 Aitian Ma, Jean Tonday Rodriguez, Mo Sha, and Dongsheng Luo\
 Sensorless Air Temperature Sensing Using LoRa Link Characteristics\
 IEEE International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT), June 2025.
@@ -153,9 +158,18 @@ Dongsheng Luo, Raju Rangaswami, Amir Rahmati, Erez Zadok\
 [GitTemporalAI: Leveraging Temporal Knowledge Graphs and LLMs for Multi-Agent Repository Intelligence]()\
 The First MARW: Multi-Agent AI in the Real World Workshop at AAAI 2025
 
-Xufeng Liu, Dongsheng Luo, Wenhan Gao, Yi Liu\
-[3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors]()\
-Proceedings of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**) 2025
+Jiaxing Zhang, Jiayi Liu, Dongsheng Luo, Jennifer Neville, Hua Wei\
+[LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation](https://arxiv.org/abs/2407.15351)\
+AI Agent for Information Retrieval Workshop at SIGKDD 2025
+
+Xinnan Dai, Chung-Hsiang Lo, Kai Guo, Shenglai Zeng, Dongsheng Luo, Jiliang Tang\
+[Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing](https://arxiv.org/abs/2509.20336)\
+Workshop on Efficient Reasoning at Neurips 2025
+
+Junxiang Wang, Xu Zheng, Zhengzhang Chen, Masanao Natsumeda, Jun Nishioka, Dongsheng Luo, Haifeng Chen\
+[ICeTEA: Mixture of Detectors for Metric-Log Anomaly Detection](https://kdd-milets.github.io/milets2025/papers/MILETS_2025_paper_2.pdf)\
+The 11th Mining and Learning from Time Series Workshop: From Classical Methods to LLMs
+
 
 
 ### 2024
@@ -173,7 +187,6 @@ Proceedings of IEEE International Conference on Data Mining (ICDM), 2024
 Jun-En Ding, Phan Nguyen Minh Thao, Wen-Chih Peng, Jian-Zhe Wang, Chun-Cheng Chu, Min-Chen Hsieh, Yun-Chien Tseng, Ling Chen, Dongsheng Luo, Chenwei Wu, Chi-Te Wang, Chih-Ho Hsu, Yi-Tui Chen, Pei-Fu Chen, Feng Liu, and Fang-Ming Hung\
 [Large Language Multimodal Models for New-Onset Type 2 Diabetes Prediction using Five-Year Cohort Electronic Health Records]()\
 Scientific Reports
-
 
 Junjie Xu, Enyan Dai, Dongsheng Luo, Xiang Zhang and Suhang Wang\
 [Shape-aware Graph Spectral Learning](https://arxiv.org/abs/2310.10064)\
@@ -223,6 +236,10 @@ Raihanul Bari Tanvir, Md Mezbahul Islam, Masrur Sobhan, Dongsheng Luo, Ananda Mo
 [MOGAT: An Improved Multi-Omics Integration Framework Using Graph Attention Networks]()\
 International Journal of Molecular Sciences (IJMS), 2024\
 The 15th RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB), 2023
+
+Tianchun Wang, Farhad Shirani, Xu Zheng, Wei Cheng, Haifeng Chen, Dongsheng Luo, Xiang Zhang\
+[Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks](https://www.researchsquare.com/article/rs-5414037/latest)\
+Preprint, 2024
 
 ### 2023
 
