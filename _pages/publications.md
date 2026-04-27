@@ -317,7 +317,7 @@ Dongsheng Luo, Wei Cheng, Jingchao Ni, Wenchao Yu, Xuchao Zhang, Bo Zong, Yanchi
 [Unsupervised document embedding via contrastive augmentation](https://proceedings.mlr.press/v139/liu21k.html)\
 Arxiv, 2021
 
-Dongsheng Luo<sup>E</sup>, Wei Cheng<sup>E</sup>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang\
+Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang\
 [Parameterized Explainer for Graph Neural Network](https://arxiv.org/abs/2011.04573)\
 in Proceedings of 34th Conference on Neural Information Processing Systems (**NeurIPS**), 2020
 
@@ -358,7 +358,7 @@ Yaowei Yan, Dongsheng Luo, Jingchao Ni, Hongliang Fei, Wei Fan, Xiong Yu, John Y
 [Local graph clustering by multi-network random walk with restart]()\
 PAKDD, 2018
 
-Dongsheng Luo, Chen Gong, Renjun Hu, Liang Duan, and Shuai Ma
+Dongsheng Luo, Chen Gong, Renjun Hu, Liang Duan, and Shuai Ma\
 [Ensemble Enabled Weighted PageRank](https://arxiv.org/abs/1604.05462)\
 The WSDM Cup 2016 - Entity Ranking Challenge (WSDM CUP), 2016
 
