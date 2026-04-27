@@ -19,7 +19,7 @@ Preprint, 2026
 
 
 <u>Xu Zheng</u>, <u>Zhuomin Chen</u>, Chaohao Lin, Hua Wei, Haifeng Chen, Wei Cheng, Dongsheng Luo\
-Trajectory Graph Copilot: Pre-Action Error Diagnosis in LLM Agents\
+[Trajectory Graph Copilot: Pre-Action Error Diagnosis in LLM Agents]()\
 Preprint, 2025
 
 <u>Xu Zheng</u>, <u>Zhuomin Chen</u>, <u>Esteban Schafir</u>, Sipeng Chen, Hojat Allah Salehi, Haifeng Chen, Farhad Shirani, Wei Cheng, Dongsheng Luo\
