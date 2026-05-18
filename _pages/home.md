@@ -6,6 +6,9 @@ sitemap: false
 permalink: /
 ---
 
+**Dr. Dongsheng Luo is moving from FIU. This Page will not be maintained**
+
+------
 We are the **Trustworthy AI Lab** at the [Florida International University](https://www.fiu.edu/) led by [Dongsheng Luo](https://users.cs.fiu.edu/~dluo/).  Our lab is dedicated to crafting efficient and trustworthy AI solutions for science. We prioritize models that are practical for real-world deployment and emphasize **transparency**, **robustness**, and **reliability**. We actively bridge the gap between AI and scientific domains. Through interdisciplinary collaborations, we tailor our AI innovations to address complex challenges in **environmental science**, **health informatics**, and **human-computer interaction**.
 
 <br>
