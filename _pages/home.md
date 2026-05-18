@@ -56,7 +56,6 @@ We are the **Trustworthy AI Lab** at the [Florida International University](http
 </div>
 
 <br>
-</div>
 
 
 <br>
