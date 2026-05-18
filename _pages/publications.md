@@ -26,10 +26,6 @@ Preprint, 2025
 [L2motifs : An Explainable Framework for Machine-Generated Texts Detection](https://arxiv.org/abs/2505.12507)\
 Arivx, 2025
 
-<u>Xu Zheng</u>, Chaohao Lin, <u>Sipeng Chen</u>, <u>Zhuomin Chen</u>, Jimeng Shi, Wei Cheng, Jayantha Obeysekera, Jason Liu, Dongsheng Luo\
-[SF2Bench: Evaluating Data-Driven Models for Compound Flood Forecasting in South Florida]()\
-Preprint, 2025
-
 <u>Xu Zheng</u>, Farhad Shirani, T. Wang, S. Gao, W. Dong, W. Cheng, and Dongsheng Luo\
 [PAC Learnability under Explanation-Preserving Graph Perturbations](https://arxiv.org/abs/2402.05039)\
 Arivx, 2024
@@ -58,8 +54,13 @@ arxiv:2403.04785
 ## Conference and Journal Publications
 
 ### 2026
+
+<u>Xu Zheng</u>, Chaohao Lin, <u>Sipeng Chen</u>, <u>Zhuomin Chen</u>, Jimeng Shi, Jayantha Obeysekera, Jingchao Ni, Wei Cheng,  Jason Liu, Dongsheng Luo\
+[Uncovering Insights of Compound Flooding with Data-Driven AI](https://arxiv.org/abs/2506.04281)\
+In the Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**’26). Aug 2026.
+
 <u>Zhuomin Chen</u>, Hojat Allah Salehi, <u>Esteban Schafir</u>, <u>Xu Zheng</u>, Jiaxing Zhang, Hua Wei, Jingchao Ni,  Farhad Shirani, Dongsheng Luo\
-[Addressing Structural Distribution Shift in Explanations for Graph Neural Networks]()\
+[Addressing Structural Distribution Shift in Explanations for Graph Neural Networks](https://www.computer.org/csdl/journal/tp/5555/01/11505765/2gdAeC2LXji)\
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026
 
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, <u>Xu Zheng</u>, <u>Esteban Schafir</u>, Farhad Shirani, Dongsheng Luo\
